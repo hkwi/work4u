@@ -1,0 +1,7227 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/wiki/Property:> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1001861 rdfs:label "小川祐忠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1007730 rdfs:label "十河一存"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q101137 rdfs:label "福田康夫"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11394678,
+        wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q1016994 rdfs:label "島津斉興"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1028811 rdfs:label "北条義時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q1036482 rdfs:label "池田恒興"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q10380962 rdfs:label "洞院佶子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q1039095 rdfs:label "鍋島直茂"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1041434 rdfs:label "松平清康"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1042848 rdfs:label "柿澤弘治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1045148 rdfs:label "宇喜多直家"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1045252 rdfs:label "尼子経久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1045763 rdfs:label "徳川頼宣"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1046230 rdfs:label "徳川光貞"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1048622 rdfs:label "村上義清"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1049766 rdfs:label "吉川広家"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q10522159 rdfs:label "本多康重"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1052241 rdfs:label "松浦隆信"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1052927 rdfs:label "徳川継友"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1054034 rdfs:label "牧野成貞"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1054143 rdfs:label "大岡忠相"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1054305 rdfs:label "今川義元"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1054488 rdfs:label "藤原安子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q1054835 rdfs:label "藤原媓子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q1055348 rdfs:label "杉村太蔵"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1059785 rdfs:label "増田長盛"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1059845 rdfs:label "生駒親正"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1064841 rdfs:label "美濃部亮吉"@ja ;
+    wdt:P39 wd:Q11525354 .
+
+wd:Q1064909 rdfs:label "三好長慶"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1064935 rdfs:label "松平広忠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1065163 rdfs:label "大内義隆"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1066593 rdfs:label "磐之媛命"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q1067605 rdfs:label "戸田勝成"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1070082 rdfs:label "長宗我部元親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1070088 rdfs:label "阿部正弘"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1071101 rdfs:label "大久保忠佐"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1071525 rdfs:label "佐竹義宣"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1071770 rdfs:label "立花宗茂"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1073557 rdfs:label "蜂須賀家政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1075049 rdfs:label "浅井久政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1076150 rdfs:label "龍造寺隆信"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q10791131 rdfs:label "松平康重"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1080643 rdfs:label "秋月種実"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1082804 rdfs:label "秋月種長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1083385 rdfs:label "北条貞顕"@ja ;
+    wdt:P39 wd:Q1045904,
+        wd:Q497960 .
+
+wd:Q1083395 rdfs:label "北条守時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q10856016 rdfs:label "中村正三郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q10880506 rdfs:label "二階堂進"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q1088423 rdfs:label "毛利敬親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q10884465 rdfs:label "令子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q10891225 rdfs:label "入江俊郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q1091221 rdfs:label "伊達忠一"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q28869611 .
+
+wd:Q10917974 rdfs:label "後藤田正晴"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1767791 .
+
+wd:Q1093223 rdfs:label "山本太郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q10946356 rdfs:label "安井算知"@ja ;
+    wdt:P39 wd:Q4168128 .
+
+wd:Q109768 rdfs:label "原嘉道"@ja ;
+    wdt:P39 wd:Q841904 .
+
+wd:Q11080166 rdfs:label "文覚"@ja ;
+    wdt:P39 wd:Q11404509 .
+
+wd:Q11104907 rdfs:label "松野鶴平"@ja ;
+    wdt:P39 wd:Q28869611,
+        wd:Q28872010 .
+
+wd:Q11195727 rdfs:label "DELI"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q11239164 rdfs:label "松平家忠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11256979 rdfs:label "赤城宗徳"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q11284394 rdfs:label "橋本登美三郎"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11065521 .
+
+wd:Q11286755 rdfs:label "保利茂"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11065521 .
+
+wd:Q11286907 rdfs:label "穂積重遠"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q1129287 rdfs:label "長尾晴景"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1131518 rdfs:label "川端達夫"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q1132669 rdfs:label "尾身幸次"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q1132756 rdfs:label "酒井忠次"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1132836 rdfs:label "浜田靖一"@ja ;
+    wdt:P39 wd:Q11657095,
+        wd:Q17506823,
+        wd:Q6500838 .
+
+wd:Q1132848 rdfs:label "長勢甚遠"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1133136 rdfs:label "渡海紀三朗"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q1133192 rdfs:label "細田博之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1133194 rdfs:label "森英介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1133360 rdfs:label "佐藤勉"@ja ;
+    wdt:P39 wd:Q11394673,
+        wd:Q11394675,
+        wd:Q11394685,
+        wd:Q1575411,
+        wd:Q1578065,
+        wd:Q17506823 .
+
+wd:Q1133463 rdfs:label "亀井静香"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1133680 rdfs:label "徳川頼房"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1133776 rdfs:label "直嶋正行"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1133798 rdfs:label "佐竹義重"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1133913 rdfs:label "塩川正十郎"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q1134738 rdfs:label "柳田稔"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1135245 rdfs:label "中野正剛"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11352840 rdfs:label "一松定吉"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11354596 rdfs:label "三反園訓"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q11354925 rdfs:label "三好政長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11354955 rdfs:label "三好達"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11354958 rdfs:label "三好重夫"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11356603 rdfs:label "三淵忠彦"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q1135700 rdfs:label "徳川忠長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1135729 rdfs:label "細野豪志"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11359151 rdfs:label "上杉定実"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11359379 rdfs:label "上松陽助"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q11359720 rdfs:label "上田勇"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11360103 rdfs:label "上西小百合"@ja ;
+    wdt:P39 wd:Q1055894 .
+
+wd:Q11360960 rdfs:label "下村三郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11361258 rdfs:label "下稲葉耕吉"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11361491 rdfs:label "下飯坂潤夫"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11362721 rdfs:label "並木正芳"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11362917 rdfs:label "中井弘"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11364615 rdfs:label "中島衛"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q11364924 rdfs:label "中川秀成"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11365394 rdfs:label "中村博彦"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11365724 rdfs:label "中村梅吉"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11365777 rdfs:label "中村治朗"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11367848 rdfs:label "中馬辰猪"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11368435 rdfs:label "丸茂重貞"@ja ;
+    wdt:P39 wd:Q28919543 .
+
+wd:Q11368443 rdfs:label "丸谷金保"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11370880 rdfs:label "亀山継夫"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11370934 rdfs:label "亀岡高夫"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11372322 rdfs:label "五島正規"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11373125 rdfs:label "井上清一"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11373141 rdfs:label "井上登 (裁判官)"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11373220 rdfs:label "井上裕"@ja ;
+    wdt:P39 wd:Q14917211,
+        wd:Q28869611 .
+
+wd:Q11373342 rdfs:label "井出一太郎"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q11373497 rdfs:label "井嶋一友"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11374482 rdfs:label "京極高知"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11374495 rdfs:label "京極高通"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11376918 rdfs:label "今川正彦"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11377294 rdfs:label "今津寛"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11378377 rdfs:label "仮谷忠男"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11378515 rdfs:label "仲川元庸"@ja ;
+    wdt:P39 wd:Q19961107 .
+
+wd:Q11378601 rdfs:label "仲谷義明"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q11379176 rdfs:label "伊原木隆太"@ja ;
+    wdt:P39 wd:Q11248633,
+        wd:Q1623534 .
+
+wd:Q11379988 rdfs:label "伊藤基隆"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1138023 rdfs:label "藤村修"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823 .
+
+wd:Q11382248 rdfs:label "佐々木憲昭"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11383900 rdfs:label "佐藤孝三郎"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q11384155 rdfs:label "佐藤正俊"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q11386875 rdfs:label "倉田寛之"@ja ;
+    wdt:P39 wd:Q11612810,
+        wd:Q28869611 .
+
+wd:Q1138728 rdfs:label "一川保夫"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q1138734 rdfs:label "林董"@ja ;
+    wdt:P39 wd:Q11051391,
+        wd:Q132050,
+        wd:Q1355043,
+        wd:Q21027733 .
+
+wd:Q11394142 rdfs:label "内海英男"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11397392 rdfs:label "前田佳都男"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11397619 rdfs:label "前田正"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11398706 rdfs:label "加瀬完"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11399567 rdfs:label "加藤重三郎"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q11401578 rdfs:label "北川イッセイ"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11401616 rdfs:label "北川弘治"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11405820 rdfs:label "千種秀夫"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11405941 rdfs:label "千葉勝美"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11407954 rdfs:label "南条徳男"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11409405 rdfs:label "原健三郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11409638 rdfs:label "原文兵衛"@ja ;
+    wdt:P39 wd:Q28869611 .
+
+wd:Q11409755 rdfs:label "原田令嗣"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11409854 rdfs:label "原田昇左右"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11411865 rdfs:label "可部恒雄"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q1141271 rdfs:label "林芳正"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1141305 rdfs:label "真田信之"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11415325 rdfs:label "名和長年"@ja ;
+    wdt:P39 wd:Q11480073 .
+
+wd:Q11416916 rdfs:label "周東英雄"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11417029 rdfs:label "味村治"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q1141740 rdfs:label "豊田英二"@ja ;
+    wdt:P39 wd:Q484876 .
+
+wd:Q11418015 rdfs:label "和田政宗"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11418134 rdfs:label "和田貞夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11422894 rdfs:label "園部逸夫"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11422977 rdfs:label "土井真樹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11423241 rdfs:label "土屋品子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11423318 rdfs:label "土屋義彦"@ja ;
+    wdt:P39 wd:Q28869611 .
+
+wd:Q11423415 rdfs:label "土岐頼武"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1142446 rdfs:label "浅井長政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11425756 rdfs:label "坪川信三"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11425813 rdfs:label "垂水克己"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11427859 rdfs:label "堂垣内尚弘"@ja ;
+    wdt:P39 wd:Q33134383 .
+
+wd:Q11428444 rdfs:label "塚崎直義"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11428516 rdfs:label "塚本重頼"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11428943 rdfs:label "塩野宜慶"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11429351 rdfs:label "増田甲子七"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11065521 .
+
+wd:Q1143038 rdfs:label "松永久秀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11432596 rdfs:label "大出峻郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11433281 rdfs:label "大口善徳"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11434114 rdfs:label "大塚雄司"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11434840 rdfs:label "大島九州男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11434862 rdfs:label "大島友治"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q1143508 rdfs:label "小早川隆景"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1143534 rdfs:label "南部利直"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1143577 rdfs:label "浅野幸長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11438223 rdfs:label "大石武一"@ja ;
+    wdt:P39 wd:Q28919543 .
+
+wd:Q11438838 rdfs:label "大西勝也"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11438916 rdfs:label "大西英男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11439663 rdfs:label "大野正男"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q1144171 rdfs:label "真田昌幸"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11441738 rdfs:label "大隅健一郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11445706 rdfs:label "奥山治"@ja ;
+    wdt:P39 wd:Q30185 .
+
+wd:Q11445861 rdfs:label "奥村展三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11446145 rdfs:label "奥野健一"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11447295 rdfs:label "始関伊平"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11450223 rdfs:label "安井潤一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11450243 rdfs:label "安井謙"@ja ;
+    wdt:P39 wd:Q11612810,
+        wd:Q28869611,
+        wd:Q28871679 .
+
+wd:Q11451367 rdfs:label "安藤狂四郎"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11451405 rdfs:label "安藤裕"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11451416 rdfs:label "安藤謙介"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11451468 rdfs:label "安西愛子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11453165 rdfs:label "宮下創平"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11455798 rdfs:label "富井清"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11457798 rdfs:label "寺尾豊"@ja ;
+    wdt:P39 wd:Q11643353,
+        wd:Q28871679 .
+
+wd:Q11458010 rdfs:label "寺田治郎"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11458035 rdfs:label "寺田逸郎"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11459785 rdfs:label "小山一平"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11460008 rdfs:label "小山長規"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q28919543 .
+
+wd:Q11460413 rdfs:label "小川国彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11461376 rdfs:label "小林俊三"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11461458 rdfs:label "小林史明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11462412 rdfs:label "小沢辰男"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q28919543 .
+
+wd:Q11463874 rdfs:label "小里貞利"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11463919 rdfs:label "小野信一"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q19961107 .
+
+wd:Q11464103 rdfs:label "小野明"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11465958 rdfs:label "山下徳夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11466249 rdfs:label "山井和則"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11466402 rdfs:label "山内康一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11466406 rdfs:label "山内徳信"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11467428 rdfs:label "山口繁"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11469130 rdfs:label "山本朋広"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11469139 rdfs:label "山本栄彦"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q11469304 rdfs:label "山本義章"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11469997 rdfs:label "山浦善樹"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11470608 rdfs:label "山田美樹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11470954 rdfs:label "山路主住"@ja ;
+    wdt:P39 wd:Q11442660 .
+
+wd:Q11471983 rdfs:label "岡原昌男"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11472952 rdfs:label "岡崎洋"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q11473680 rdfs:label "岡田良一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11475182 rdfs:label "岩松三郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11475539 rdfs:label "岩田誠"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11475875 rdfs:label "岸昌"@ja ;
+    wdt:P39 wd:Q15063280 .
+
+wd:Q11476006 rdfs:label "岸盛一"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11476204 rdfs:label "島保"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11476388 rdfs:label "島村宜伸"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11476857 rdfs:label "島田仁郎"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11476899 rdfs:label "島田巽"@ja ;
+    wdt:P39 wd:Q11375905 .
+
+wd:Q11477446 rdfs:label "巌谷一六"@ja ;
+    wdt:P39 wd:Q11388041,
+        wd:Q11650575 .
+
+wd:Q11479145 rdfs:label "川西實三"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11479713 rdfs:label "左藤義詮"@ja ;
+    wdt:P39 wd:Q15063280 .
+
+wd:Q11480501 rdfs:label "市村慶三"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q1148095 rdfs:label "宇垣一成"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11487560 rdfs:label "弦間明"@ja ;
+    wdt:P39 wd:Q267936 .
+
+wd:Q1148765 rdfs:label "小川勝也"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11490337 rdfs:label "徳永エリ"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11490364 rdfs:label "徳永正利"@ja ;
+    wdt:P39 wd:Q11640486,
+        wd:Q28869611 .
+
+wd:Q11496281 rdfs:label "戸塚九一郎"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11500323 rdfs:label "斉藤滋与史"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11500472 rdfs:label "斎藤利永"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11500493 rdfs:label "斎藤十朗"@ja ;
+    wdt:P39 wd:Q28869611 .
+
+wd:Q11500588 rdfs:label "斎藤昇"@ja ;
+    wdt:P39 wd:Q11632350 .
+
+wd:Q11500606 rdfs:label "斎藤栄三郎"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q11501923 rdfs:label "新居善太郎"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11504925 rdfs:label "日出英輔"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11511205 rdfs:label "早坂久之助"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q11516489 rdfs:label "有村治子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11516618 rdfs:label "有田芳生"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11517009 rdfs:label "服部高顯"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q1151711 rdfs:label "安国寺恵瓊"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11518220 rdfs:label "木原稔"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11518222 rdfs:label "木原誠二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11518790 rdfs:label "木村太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11518859 rdfs:label "木村庄之助"@ja ;
+    wdt:P39 wd:Q3151478,
+        wd:Q3482790 .
+
+wd:Q11518860 rdfs:label "木村庄之助"@ja ;
+    wdt:P39 wd:Q3151478,
+        wd:Q3482790 .
+
+wd:Q11518893 rdfs:label "木村惇"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11518972 rdfs:label "木村武雄"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11519025 rdfs:label "木村睦男"@ja ;
+    wdt:P39 wd:Q11640486,
+        wd:Q28869611 .
+
+wd:Q11519406 rdfs:label "木部佳昭"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11520186 rdfs:label "本山政雄"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q11520214 rdfs:label "本岡昭次"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11520439 rdfs:label "本林譲"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11522012 rdfs:label "杉戸清"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q11522728 rdfs:label "村上勇"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11522819 rdfs:label "村上朝一"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11523646 rdfs:label "条野採菊"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q11523877 rdfs:label "東中光雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1152666 rdfs:label "尾崎行雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11530462 rdfs:label "松平斉民"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11530504 rdfs:label "松平治郷"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11531151 rdfs:label "松本正雄"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11531177 rdfs:label "松本清"@ja ;
+    wdt:P39 wd:Q11378299,
+        wd:Q19961107 .
+
+wd:Q11531846 rdfs:label "松浦熈"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11531874 rdfs:label "松浦誠信"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11531972 rdfs:label "松田二郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11532049 rdfs:label "松田岩夫"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q11532526 rdfs:label "板倉重昌"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11532529 rdfs:label "板倉重矩"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11532812 rdfs:label "林久美子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11533321 rdfs:label "林譲治 (政治家)"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1767791 .
+
+wd:Q11535033 rdfs:label "柿沢未途"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11535962 rdfs:label "栗本一夫"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11536336 rdfs:label "根岸重治"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11536418 rdfs:label "根本龍太郎"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11065521 .
+
+wd:Q11538288 rdfs:label "桧田仁"@ja ;
+    wdt:P39 wd:Q11505877,
+        wd:Q17506823 .
+
+wd:Q11538825 rdfs:label "梶原拓"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q11538925 rdfs:label "梶谷玄"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11539316 rdfs:label "森八三一"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q1153962 rdfs:label "織田信秀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11540156 rdfs:label "森田茂 (政治家)"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11540315 rdfs:label "森裕子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11541333 rdfs:label "楢崎泰昌"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11542484 rdfs:label "横山ノック"@ja ;
+    wdt:P39 wd:Q15063280 .
+
+wd:Q11542524 rdfs:label "横山北斗"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11543357 rdfs:label "横田喜三郎"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11543391 rdfs:label "横田正俊"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11543440 rdfs:label "横粂勝仁"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11546128 rdfs:label "武田克之"@ja ;
+    wdt:P39 wd:Q61061 .
+
+wd:Q11547657 rdfs:label "毛利松平"@ja ;
+    wdt:P39 wd:Q28919543 .
+
+wd:Q11549424 rdfs:label "水野清"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11550005 rdfs:label "永山文雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1155062 rdfs:label "鳩山威一郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11550863 rdfs:label "江崎孝"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11551370 rdfs:label "江里口清雄"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11551729 rdfs:label "池田克"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11551802 rdfs:label "池田宏 (内務官僚)"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11553342 rdfs:label "河井克行"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11553344 rdfs:label "河井彌八"@ja ;
+    wdt:P39 wd:Q28869611 .
+
+wd:Q11553905 rdfs:label "河村又介"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11554478 rdfs:label "沼川洋一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1155448 rdfs:label "平野博文"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q11558373 rdfs:label "浦野烋興"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q1155846 rdfs:label "北澤俊美"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q6500838 .
+
+wd:Q11560190 rdfs:label "深澤武久"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11560511 rdfs:label "清原武則"@ja ;
+    wdt:P39 wd:Q2700052 .
+
+wd:Q11561908 rdfs:label "渡嘉敷奈緒美"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11561934 rdfs:label "渡海元三郎"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q11612810 .
+
+wd:Q11562133 rdfs:label "渡辺博道"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11562191 rdfs:label "渡辺孝男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11562336 rdfs:label "渡辺栄一"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11562435 rdfs:label "渡辺省一"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q11562654 rdfs:label "渡邉美樹"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1156288 rdfs:label "島津義弘"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11564102 rdfs:label "源成頼"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11565069 rdfs:label "滝井繁男"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q1156545 rdfs:label "毛利元就"@ja ;
+    wdt:P39 wd:Q61982,
+        wd:Q859955 .
+
+wd:Q11565980 rdfs:label "澤田竹治郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11566608 rdfs:label "瀬戸山三男"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q1156668 rdfs:label "北条氏直"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1156675 rdfs:label "与謝野馨"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q11566757 rdfs:label "瀬谷英行"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11568706 rdfs:label "熊谷俊人"@ja ;
+    wdt:P39 wd:Q11505877,
+        wd:Q19961107 .
+
+wd:Q11568730 rdfs:label "熊谷大"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11570409 rdfs:label "牧島かれん"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11572466 rdfs:label "玉城デニー"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11574115 rdfs:label "環昌一"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11574929 rdfs:label "生駒正俊"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11575229 rdfs:label "田中二郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11575792 rdfs:label "田中秀征"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11575905 rdfs:label "田中芳男"@ja ;
+    wdt:P39 wd:Q11388041,
+        wd:Q715139 .
+
+wd:Q11576280 rdfs:label "田原睦夫"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11576901 rdfs:label "田村太兵衛"@ja ;
+    wdt:P39 wd:Q11440818 .
+
+wd:Q11576938 rdfs:label "田村智子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11577021 rdfs:label "田村謙治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11577066 rdfs:label "田沢吉郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11577259 rdfs:label "田英夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11577428 rdfs:label "田邊朋之"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11578254 rdfs:label "町村金五"@ja ;
+    wdt:P39 wd:Q33134383 .
+
+wd:Q11578676 rdfs:label "畠山義就"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11580010 rdfs:label "白浜一良"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11580176 rdfs:label "白石徹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11581299 rdfs:label "益谷秀次"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q1767791 .
+
+wd:Q11581903 rdfs:label "相原久美子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11583577 rdfs:label "真野毅"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11584453 rdfs:label "矢野隆司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11585345 rdfs:label "石坂修一"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11586360 rdfs:label "石川要三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11586712 rdfs:label "石橋通宏"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11586946 rdfs:label "石田和外 (裁判官)"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11593904 rdfs:label "福永健司"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q1159446 rdfs:label "団藤重光"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11595066 rdfs:label "秋山長造"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11596909 rdfs:label "稲葉修"@ja ;
+    wdt:P39 wd:Q14917211,
+        wd:Q841904 .
+
+wd:Q11598004 rdfs:label "立木洋"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11599090 rdfs:label "竹山祐太郎"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11599092 rdfs:label "竹山裕"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q11599411 rdfs:label "竹腰正信"@ja ;
+    wdt:P39 wd:Q11489347 .
+
+wd:Q11605970 rdfs:label "細川立孝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11605997 rdfs:label "細川行孝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11606014 rdfs:label "細川重賢"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11609955 rdfs:label "義家弘介"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1161024 rdfs:label "河野太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11610464 rdfs:label "翁長雄志"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q30185 .
+
+wd:Q11612189 rdfs:label "脇雅史"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q116127 rdfs:label "野村吉三郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11613822 rdfs:label "舩橋求己"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11614494 rdfs:label "色川幸太郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q116151 rdfs:label "伊達吉村"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11616853 rdfs:label "苫米地義三"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q11618643 rdfs:label "荒巻禎一"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11619136 rdfs:label "菅原一秀"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11619415 rdfs:label "菅野久光"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11622816 rdfs:label "藤井正雄 (裁判官)"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11623503 rdfs:label "藤原良相"@ja ;
+    wdt:P39 wd:Q1351174 .
+
+wd:Q11623933 rdfs:label "藤島昭"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11624101 rdfs:label "藤末健三"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11624336 rdfs:label "藤林益三"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q11624838 rdfs:label "藤田正明"@ja ;
+    wdt:P39 wd:Q28869611 .
+
+wd:Q11625745 rdfs:label "蜷川虎三"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11628000 rdfs:label "西島英利"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11628619 rdfs:label "西村正美"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11628666 rdfs:label "西村英一"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11629931 rdfs:label "西銘恒三郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11630343 rdfs:label "覚深法親王"@ja ;
+    wdt:P39 wd:Q1079855 .
+
+wd:Q11630698 rdfs:label "角屋堅次郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11630819 rdfs:label "角田義一"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11632647 rdfs:label "谷博之"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11632874 rdfs:label "谷川寛三"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q11632945 rdfs:label "谷本巍"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11632965 rdfs:label "谷村唯一郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11632967 rdfs:label "谷村啓介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11635676 rdfs:label "赤松小寅"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q11635739 rdfs:label "赤桐操"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11636007 rdfs:label "赤間文三"@ja ;
+    wdt:P39 wd:Q15063280 .
+
+wd:Q11636540 rdfs:label "越智伊平"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11636591 rdfs:label "越直美"@ja ;
+    wdt:P39 wd:Q19961107 .
+
+wd:Q11638274 rdfs:label "辻清人"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11638420 rdfs:label "近岡理一郎"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q11638491 rdfs:label "近江巳記夫"@ja ;
+    wdt:P39 wd:Q11595924 .
+
+wd:Q11642170 rdfs:label "遠藤三郎 (政治家)"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11644106 rdfs:label "酒井忠利"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q11645951 rdfs:label "野田卯一"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11646016 rdfs:label "野田毅"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q17506823 .
+
+wd:Q11647268 rdfs:label "金森徳次郎"@ja ;
+    wdt:P39 wd:Q11421245 .
+
+wd:Q11649031 rdfs:label "鈴木淳司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11649374 rdfs:label "鈴木隆夫"@ja ;
+    wdt:P39 wd:Q11421245 .
+
+wd:Q11652270 rdfs:label "長島忠美"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11653490 rdfs:label "長田裕二"@ja ;
+    wdt:P39 wd:Q28869611 .
+
+wd:Q11653781 rdfs:label "長谷川四郎 (政治家)"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11655672 rdfs:label "関口隆吉"@ja ;
+    wdt:P39 wd:Q11388041,
+        wd:Q132050,
+        wd:Q5354399 .
+
+wd:Q11655725 rdfs:label "関山信之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11657178 rdfs:label "阿久津幸彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q11657273 rdfs:label "阿具根登"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q11658158 rdfs:label "陣内孝雄"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q11661220 rdfs:label "青山剛"@ja ;
+    wdt:P39 wd:Q11505877,
+        wd:Q19961107 .
+
+wd:Q11664736 rdfs:label "須藤正彦"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11667269 rdfs:label "香川保一"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11667851 rdfs:label "馬場元治"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q11669428 rdfs:label "高山義三"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q11669626 rdfs:label "高島宗一郎"@ja ;
+    wdt:P39 wd:Q19961107 .
+
+wd:Q11672891 rdfs:label "高辻正己"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q11678873 rdfs:label "黒金泰美"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q11679111 rdfs:label "齋藤朔郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q1185032 rdfs:label "大友義鎮"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1185281 rdfs:label "浅井亮政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1186700 rdfs:label "佐々成政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1186742 rdfs:label "前田利長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1186834 rdfs:label "河野謙三"@ja ;
+    wdt:P39 wd:Q28869611,
+        wd:Q28871679 .
+
+wd:Q1187045 rdfs:label "緒方洪庵"@ja ;
+    wdt:P39 wd:Q11445622 .
+
+wd:Q1188359 rdfs:label "北条泰時"@ja ;
+    wdt:P39 wd:Q1045904,
+        wd:Q938069 .
+
+wd:Q1188472 rdfs:label "織田信広"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1190934 rdfs:label "上杉景虎"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1190972 rdfs:label "藤原定子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q1192628 rdfs:label "武田信虎"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1194899 rdfs:label "上杉治憲"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1194944 rdfs:label "徳川光圀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1196300 rdfs:label "牧口常三郎"@ja ;
+    wdt:P39 wd:Q617717 .
+
+wd:Q1196817 rdfs:label "前田利家"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1197656 rdfs:label "貞明皇后"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q1202670 rdfs:label "斎藤道三"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q120564 rdfs:label "明正天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q1207174 rdfs:label "額賀福志郎"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q1207509 rdfs:label "細川幽斎"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q122349 rdfs:label "自見庄三郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q122465 rdfs:label "菅義偉"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1578065,
+        wd:Q17506823 .
+
+wd:Q123052 rdfs:label "後小松天皇"@ja ;
+    wdt:P39 wd:Q208233,
+        wd:Q845929 .
+
+wd:Q1237550 rdfs:label "石神忠真郎"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q1240937 rdfs:label "伊能忠敬"@ja ;
+    wdt:P39 wd:Q1626996 .
+
+wd:Q1241113 rdfs:label "鏑木清方"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q1247261 rdfs:label "荒井正吾"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q1623534 .
+
+wd:Q127759 rdfs:label "西川一誠"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1280894 rdfs:label "猪瀬直樹"@ja ;
+    wdt:P39 wd:Q11525354 .
+
+wd:Q1282832 rdfs:label "川崎卓吉"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q128573 rdfs:label "松井一郎"@ja ;
+    wdt:P39 wd:Q15063280 .
+
+wd:Q12857427 rdfs:label "小野次郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q129149 rdfs:label "鈴木克昌"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1293828 rdfs:label "加藤千蔭"@ja ;
+    wdt:P39 wd:Q3108649 .
+
+wd:Q1300511 rdfs:label "谷大二"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q1303796 rdfs:label "鈴木英敬"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q130852 rdfs:label "小泉純一郎"@ja ;
+    wdt:P39 wd:Q11612963,
+        wd:Q11643353,
+        wd:Q1355043,
+        wd:Q17506823,
+        wd:Q274948,
+        wd:Q3273722,
+        wd:Q8191055 .
+
+wd:Q130856 rdfs:label "横路孝弘"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q33134383 .
+
+wd:Q13099335 rdfs:label "市村光恵"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q131077 rdfs:label "鳩山由紀夫"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q1313628 rdfs:label "宮澤洋一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1315762 rdfs:label "松本剛明"@ja ;
+    wdt:P39 wd:Q1355043,
+        wd:Q17506823 .
+
+wd:Q1315878 rdfs:label "山内一豊"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q132280 rdfs:label "前原誠司"@ja ;
+    wdt:P39 wd:Q11394670,
+        wd:Q11394674,
+        wd:Q11394679,
+        wd:Q11394680,
+        wd:Q11394685,
+        wd:Q1355043,
+        wd:Q17506823,
+        wd:Q842012 .
+
+wd:Q132345 rdfs:label "安倍晋三"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q1323770 rdfs:label "徳川斉昭"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q132596 rdfs:label "麻生太郎"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948,
+        wd:Q6500849 .
+
+wd:Q1326985 rdfs:label "平井伸治"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1329792 rdfs:label "宇喜多秀家"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1333672 rdfs:label "和田洋一"@ja ;
+    wdt:P39 wd:Q484876 .
+
+wd:Q1335527 rdfs:label "石破茂"@ja ;
+    wdt:P39 wd:Q11657095,
+        wd:Q17224467,
+        wd:Q17506823,
+        wd:Q20041398,
+        wd:Q28868201,
+        wd:Q6500838,
+        wd:Q8191055 .
+
+wd:Q1336805 rdfs:label "松原仁"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1340817 rdfs:label "棚橋泰文"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q13448927 rdfs:label "朝倉孝景"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1348386 rdfs:label "北条氏綱"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1354410 rdfs:label "北条時頼"@ja ;
+    wdt:P39 wd:Q1045904,
+        wd:Q11393702,
+        wd:Q11638974,
+        wd:Q1351234 .
+
+wd:Q1355689 rdfs:label "山名宗全"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1371121 rdfs:label "中塚一宏"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1371657 rdfs:label "加藤嘉明"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1372394 rdfs:label "石川知裕"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1373396 rdfs:label "真田幸隆"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1376605 rdfs:label "上杉景勝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1377984 rdfs:label "藤堂高虎"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1385927 rdfs:label "池田輝政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1393400 rdfs:label "岡田広"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1450003 rdfs:label "佐藤雄平"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q1623534 .
+
+wd:Q145416 rdfs:label "田中義一"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q1455923 rdfs:label "石井隆一"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1457689 rdfs:label "中田宏"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1473237 rdfs:label "藤尾正行"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1473245 rdfs:label "藤崎萬里"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q121998 .
+
+wd:Q14778194 rdfs:label "吉良佳子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1485068 rdfs:label "湯崎英彦"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1502275 rdfs:label "金子原二郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q1505020 rdfs:label "川勝平太"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1518904 rdfs:label "松本龍"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q152728 rdfs:label "嘉田由紀子"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1536732 rdfs:label "峰崎直樹"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q15614112 rdfs:label "昇子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q157052 rdfs:label "大正天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q15830756 rdfs:label "村岡嗣政"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1589271 rdfs:label "千坂高房"@ja ;
+    wdt:P39 wd:Q1316445 .
+
+wd:Q159048 rdfs:label "桂太郎"@ja ;
+    wdt:P39 wd:Q701172 .
+
+wd:Q160847 rdfs:label "東條英機"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q161381 rdfs:label "杉原千畝"@ja ;
+    wdt:P39 wd:Q3734658 .
+
+wd:Q1616582 rdfs:label "細川光尚"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1617350 rdfs:label "大村秀章"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q1620101 rdfs:label "平井太郎"@ja ;
+    wdt:P39 wd:Q11643353,
+        wd:Q28871679 .
+
+wd:Q1620219 rdfs:label "中西宏明"@ja ;
+    wdt:P39 wd:Q484876 .
+
+wd:Q1620262 rdfs:label "石井浩郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1620282 rdfs:label "小川洋"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1620315 rdfs:label "長浜博行"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q1620640 rdfs:label "亀井久興"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q1622963 rdfs:label "細川高国"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q16264624 rdfs:label "遠藤光男"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q16264676 rdfs:label "大久保博"@ja ;
+    wdt:P39 wd:Q19961107 .
+
+wd:Q16294651 rdfs:label "滝沢求"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q16295188 rdfs:label "中泉松司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1654408 rdfs:label "稲田朋美"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500838 .
+
+wd:Q1654639 rdfs:label "岩屋毅"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1655220 rdfs:label "下村博文"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q1655453 rdfs:label "茂木敏充"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1655599 rdfs:label "山本一太"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1656878 rdfs:label "田村憲久"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q1656896 rdfs:label "宮腰光寛"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1658176 rdfs:label "蒲島郁夫"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1658180 rdfs:label "亀井郁夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1670854 rdfs:label "飯泉嘉門"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1676040 rdfs:label "平賀徹夫"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q1689507 rdfs:label "村井仁"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1689655 rdfs:label "川崎二郎"@ja ;
+    wdt:P39 wd:Q841962 .
+
+wd:Q1704924 rdfs:label "根本匠"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1704969 rdfs:label "古屋圭司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1705028 rdfs:label "高市早苗"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q17506823 .
+
+wd:Q1706532 rdfs:label "三末篤實"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q1707648 rdfs:label "高見三明"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q17130003 rdfs:label "倉林明子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q17130065 rdfs:label "栗山尚一"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q171411 rdfs:label "織田信長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q17158618 rdfs:label "坂井隆憲"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q17158738 rdfs:label "崎田恭平"@ja ;
+    wdt:P39 wd:Q19961107 .
+
+wd:Q17191798 rdfs:label "天野光晴"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q171977 rdfs:label "徳川家康"@ja ;
+    wdt:P39 wd:Q1157586,
+        wd:Q205662 .
+
+wd:Q17208948 rdfs:label "村田良平"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q17209024 rdfs:label "松浦隆信"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q17217985 rdfs:label "長谷川太一郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q17221192 rdfs:label "大岩勇夫"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q17221377 rdfs:label "小谷勝重"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q17230404 rdfs:label "三木治朗"@ja ;
+    wdt:P39 wd:Q28871679 .
+
+wd:Q1723427 rdfs:label "鈴木寛"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1723930 rdfs:label "中野寛成"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1725744 rdfs:label "松沢成文"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q1736789 rdfs:label "浅野勝人"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q1736802 rdfs:label "広瀬勝貞"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1737580 rdfs:label "丸山和也"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1737905 rdfs:label "石井啓一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1737907 rdfs:label "浅尾慶一郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q1738107 rdfs:label "浜田恵造"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q174231 rdfs:label "明治天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q174249 rdfs:label "源実朝"@ja ;
+    wdt:P39 wd:Q131767 .
+
+wd:Q1742537 rdfs:label "鷹司教平"@ja ;
+    wdt:P39 wd:Q3138036 .
+
+wd:Q1748265 rdfs:label "三木行治"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q174971 rdfs:label "伊藤博文"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q174982 rdfs:label "三村申吾"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q1761759 rdfs:label "下地幹郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q179871 rdfs:label "佐藤栄作"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11065521,
+        wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q17989197 rdfs:label "内堀雅雄"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q179971 rdfs:label "仲哀天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q1804854 rdfs:label "河野俊嗣"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1818630 rdfs:label "池長潤"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q49476 .
+
+wd:Q182927 rdfs:label "松原武久"@ja ;
+    wdt:P39 wd:Q19962558 .
+
+wd:Q186146 rdfs:label "河野洋平"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q1767791 .
+
+wd:Q18669603 rdfs:label "池内沙織"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q187550 rdfs:label "豊臣秀吉"@ja ;
+    wdt:P39 wd:Q1157586,
+        wd:Q1185338,
+        wd:Q1199966,
+        wd:Q1354706,
+        wd:Q61982 .
+
+wd:Q188095 rdfs:label "片山虎之助"@ja ;
+    wdt:P39 wd:Q1578065 .
+
+wd:Q18818272 rdfs:label "山口祥義"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1882775 rdfs:label "片桐且元"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q1887675 rdfs:label "北条時国"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q1890878 rdfs:label "藤原武智麻呂"@ja ;
+    wdt:P39 wd:Q1351174,
+        wd:Q1354706,
+        wd:Q949008 .
+
+wd:Q189287 rdfs:label "溝口善兵衛"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q1906668 rdfs:label "中川正春"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q1949760 rdfs:label "古川元久"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1952005 rdfs:label "向井元升"@ja ;
+    wdt:P39 wd:Q11515180 .
+
+wd:Q1965622 rdfs:label "薗浦健太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1974211 rdfs:label "北条時範"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q1995125 rdfs:label "岸信夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q1995136 rdfs:label "保坂展人"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q200188 rdfs:label "神武天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q20040113 rdfs:label "駒谷明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q20041837 rdfs:label "中野秀一郎"@ja ;
+    wdt:P39 wd:Q1622272 .
+
+wd:Q20042236 rdfs:label "長谷川清"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q2008076 rdfs:label "北条経時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q2020641 rdfs:label "北条時益"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q2037124 rdfs:label "北条宗宣"@ja ;
+    wdt:P39 wd:Q1045904,
+        wd:Q497960,
+        wd:Q938069 .
+
+wd:Q2043058 rdfs:label "小沢佐重喜"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q204939 rdfs:label "神田真秋"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q30185 .
+
+wd:Q2060564 rdfs:label "森一弘"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q2062433 rdfs:label "糸永真一"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q2077976 rdfs:label "平田三郎"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q2078699 rdfs:label "地主敏夫"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q2110461 rdfs:label "藤原乙牟漏"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q2113306 rdfs:label "下村観山"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q2113607 rdfs:label "保科正景"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q212271 rdfs:label "田中慶秋"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q212305 rdfs:label "江田五月"@ja ;
+    wdt:P39 wd:Q1104488,
+        wd:Q11595924,
+        wd:Q14552828,
+        wd:Q17506823,
+        wd:Q28869611,
+        wd:Q841904 .
+
+wd:Q2123232 rdfs:label "北条範貞"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q212373 rdfs:label "田中直紀"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q212400 rdfs:label "安住淳"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q21655734 rdfs:label "内貴甚三郎"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q2169506 rdfs:label "北条時敦"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q217096 rdfs:label "皇太子徳仁親王"@ja ;
+    wdt:P39 wd:Q2762318 .
+
+wd:Q22124694 rdfs:label "宮崎総五"@ja ;
+    wdt:P39 wd:Q11496652,
+        wd:Q1626996 .
+
+wd:Q22128244 rdfs:label "栗林五朔"@ja ;
+    wdt:P39 wd:Q11505877,
+        wd:Q17506823 .
+
+wd:Q2225396 rdfs:label "北条時房"@ja ;
+    wdt:P39 wd:Q497960,
+        wd:Q938069 .
+
+wd:Q2225687 rdfs:label "山崎正昭"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q28869611,
+        wd:Q28871679 .
+
+wd:Q2261388 rdfs:label "糟屋武則"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2269688 rdfs:label "北条茂時"@ja ;
+    wdt:P39 wd:Q497960 .
+
+wd:Q2278729 rdfs:label "山本繁太郎"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q2280320 rdfs:label "阿部守一"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q2280369 rdfs:label "柳井俊二"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q2300146 rdfs:label "北条維貞"@ja ;
+    wdt:P39 wd:Q497960 .
+
+wd:Q230525 rdfs:label "後桜町天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q230697 rdfs:label "香淳皇后"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q2308657 rdfs:label "北条宣時"@ja ;
+    wdt:P39 wd:Q497960 .
+
+wd:Q232026 rdfs:label "持統天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q232803 rdfs:label "神功皇后"@ja ;
+    wdt:P39 wd:Q208233,
+        wd:Q595038 .
+
+wd:Q232955 rdfs:label "孝謙天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q2331538 rdfs:label "北条煕時"@ja ;
+    wdt:P39 wd:Q1045904,
+        wd:Q497960 .
+
+wd:Q233224 rdfs:label "元明天皇"@ja ;
+    wdt:P39 wd:Q5374675 .
+
+wd:Q233499 rdfs:label "森喜朗"@ja ;
+    wdt:P39 wd:Q1376196,
+        wd:Q14917211,
+        wd:Q274948,
+        wd:Q6867297 .
+
+wd:Q235296 rdfs:label "皇極天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q235343 rdfs:label "元正天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q2355334 rdfs:label "北条高時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q2367308 rdfs:label "島津貴久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2379697 rdfs:label "野呂田芳成"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q2379836 rdfs:label "小泉純也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2379869 rdfs:label "瓦力"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2386947 rdfs:label "柴田是真"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q2387080 rdfs:label "小平忠正"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2389281 rdfs:label "鷹司冬家"@ja ;
+    wdt:P39 wd:Q3138036 .
+
+wd:Q2389468 rdfs:label "前田武志"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q2391659 rdfs:label "綿貫民輔"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q17506823,
+        wd:Q22960931 .
+
+wd:Q23940731 rdfs:label "諏訪蘇山"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q240051 rdfs:label "谷亮子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q2405954 rdfs:label "増子輝彦"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q2406852 rdfs:label "矢野哲朗"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q2408959 rdfs:label "北条政村"@ja ;
+    wdt:P39 wd:Q1045904,
+        wd:Q497960 .
+
+wd:Q241765 rdfs:label "安閑天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q2422053 rdfs:label "前田万葉"@ja ;
+    wdt:P39 wd:Q49476 .
+
+wd:Q242800 rdfs:label "源頼朝"@ja ;
+    wdt:P39 wd:Q131767 .
+
+wd:Q2438992 rdfs:label "中村時広"@ja ;
+    wdt:P39 wd:Q11493583,
+        wd:Q30185 .
+
+wd:Q2445328 rdfs:label "高野紀元"@ja ;
+    wdt:P39 wd:Q121998 .
+
+wd:Q2449513 rdfs:label "北条貞房"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q2469687 rdfs:label "長宗我部国親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q248015 rdfs:label "内田康哉"@ja ;
+    wdt:P39 wd:Q16147003,
+        wd:Q274948 .
+
+wd:Q248381 rdfs:label "足利義満"@ja ;
+    wdt:P39 wd:Q1154406 .
+
+wd:Q2484183 rdfs:label "三井辨雄"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q2484652 rdfs:label "竹下亘"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q24876 rdfs:label "三木武吉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2490704 rdfs:label "北条基時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q2491244 rdfs:label "北条業時"@ja ;
+    wdt:P39 wd:Q497960 .
+
+wd:Q2496284 rdfs:label "赤松満祐"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q250828 rdfs:label "中曽根康弘"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q251768 rdfs:label "松浪健四郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2539353 rdfs:label "北条貞将"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q254004 rdfs:label "山下奉文"@ja ;
+    wdt:P39 wd:Q1542521 .
+
+wd:Q2552448 rdfs:label "久保亘"@ja ;
+    wdt:P39 wd:Q1767791 .
+
+wd:Q256584 rdfs:label "辻政信"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q2575281 rdfs:label "朝倉景健"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2576940 rdfs:label "古川康"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q2576975 rdfs:label "末松義規"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2577828 rdfs:label "毛利興元"@ja ;
+    wdt:P39 wd:Q61982,
+        wd:Q859955 .
+
+wd:Q2596122 rdfs:label "内海忠勝"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q259722 rdfs:label "羽田雄一郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q2598656 rdfs:label "北条義宗"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q2599689 rdfs:label "永田寿康"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2600807 rdfs:label "桝本頼兼"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q2601180 rdfs:label "北条義政"@ja ;
+    wdt:P39 wd:Q497960 .
+
+wd:Q2602573 rdfs:label "津島雄二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q260536 rdfs:label "若林正俊"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q28919543 .
+
+wd:Q261703 rdfs:label "小池百合子"@ja ;
+    wdt:P39 wd:Q1104488,
+        wd:Q11525354,
+        wd:Q14552828,
+        wd:Q17506823,
+        wd:Q28919543,
+        wd:Q6500838 .
+
+wd:Q2625556 rdfs:label "伊達輝宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q263703 rdfs:label "橋本聖子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q263777 rdfs:label "長妻昭"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q264290 rdfs:label "福島瑞穂"@ja ;
+    wdt:P39 wd:Q6866352 .
+
+wd:Q2645818 rdfs:label "岡田良平"@ja ;
+    wdt:P39 wd:Q11650575,
+        wd:Q14917211 .
+
+wd:Q265174 rdfs:label "北川知克"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2659579 rdfs:label "主代郁夫"@ja ;
+    wdt:P39 wd:Q189854 .
+
+wd:Q2672978 rdfs:label "北条師時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q269520 rdfs:label "昭憲皇太后"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q271536 rdfs:label "懿徳天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q2728800 rdfs:label "大村純忠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2743451 rdfs:label "重宗雄三"@ja ;
+    wdt:P39 wd:Q11640486,
+        wd:Q28869611,
+        wd:Q28871679 .
+
+wd:Q275018 rdfs:label "上村松園"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q276275 rdfs:label "上川陽子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q276404 rdfs:label "武田信玄"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q27640566 rdfs:label "大井知敏"@ja ;
+    wdt:P39 wd:Q11378299,
+        wd:Q11505877,
+        wd:Q140686 .
+
+wd:Q277361 rdfs:label "上杉朝定"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q27826921 rdfs:label "大野盛郁"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q27826942 rdfs:label "淺山富之助"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q27826971 rdfs:label "和辻春樹"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q2785895 rdfs:label "北条時村"@ja ;
+    wdt:P39 wd:Q497960,
+        wd:Q938069 .
+
+wd:Q281350 rdfs:label "今川貞世"@ja ;
+    wdt:P39 wd:Q1141023,
+        wd:Q1143696,
+        wd:Q61982,
+        wd:Q73840,
+        wd:Q8013406 .
+
+wd:Q282529 rdfs:label "六角義賢"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2828933 rdfs:label "赤松則村"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2856191 rdfs:label "安達謙蔵"@ja ;
+    wdt:P39 wd:Q11267748,
+        wd:Q21027733 .
+
+wd:Q2859472 rdfs:label "荒木村重"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2866311 rdfs:label "浅野綱晟"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2866313 rdfs:label "浅野綱長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2866316 rdfs:label "浅野長矩"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q2880879 rdfs:label "斎藤龍興"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q28859457 rdfs:label "山際弘文"@ja ;
+    wdt:P39 wd:Q11248633 .
+
+wd:Q28859467 rdfs:label "山際俊夫"@ja ;
+    wdt:P39 wd:Q11248633,
+        wd:Q140686 .
+
+wd:Q28859508 rdfs:label "小長谷兵五"@ja ;
+    wdt:P39 wd:Q11248633,
+        wd:Q140686 .
+
+wd:Q28859512 rdfs:label "小長谷哲"@ja ;
+    wdt:P39 wd:Q11248633 .
+
+wd:Q28859670 rdfs:label "石丸鶴雄"@ja ;
+    wdt:P39 wd:Q11248633,
+        wd:Q140686 .
+
+wd:Q28859680 rdfs:label "石丸俊之"@ja ;
+    wdt:P39 wd:Q11248633 .
+
+wd:Q2892819 rdfs:label "竹崎博允"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q2900560 rdfs:label "丹羽長秀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q29030922 rdfs:label "中島精一"@ja ;
+    wdt:P39 wd:Q11496652,
+        wd:Q11505877,
+        wd:Q11643275,
+        wd:Q11902879,
+        wd:Q690928 .
+
+wd:Q2906574 rdfs:label "北条長時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q290890 rdfs:label "藤井裕久"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q29405682 rdfs:label "関根ジロー"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29406171 rdfs:label "原裕二"@ja ;
+    wdt:P39 wd:Q11505877,
+        wd:Q140686 .
+
+wd:Q29406631 rdfs:label "二階堂剛"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29410398 rdfs:label "増田薫"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29419400 rdfs:label "伊藤余一郎"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29419439 rdfs:label "末松裕人"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29422356 rdfs:label "中田京"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29423639 rdfs:label "山中啓之"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29478068 rdfs:label "深山能一"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q2948444 rdfs:label "田村宗良"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q29591528 rdfs:label "飯箸公明"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29591799 rdfs:label "大塚健児"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q29592118 rdfs:label "小沢暁民"@ja ;
+    wdt:P39 wd:Q11505877 .
+
+wd:Q297107 rdfs:label "足利尊氏"@ja ;
+    wdt:P39 wd:Q1154406 .
+
+wd:Q2972146 rdfs:label "中江兆民"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q2975848 rdfs:label "水野忠邦"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q297628 rdfs:label "西園寺公望"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q297644 rdfs:label "田中角栄"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q298057 rdfs:label "推古天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q299142 rdfs:label "池田勇人"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q299179 rdfs:label "孝明天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q2994679 rdfs:label "斎藤義龍"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q299927 rdfs:label "岡崎トミ子"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q1575411,
+        wd:Q17506823 .
+
+wd:Q301804 rdfs:label "吉田茂"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q3041876 rdfs:label "川田龍平"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q3044815 rdfs:label "織田信雄"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3049352 rdfs:label "西園寺鏱子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q3076818 rdfs:label "藤原行成"@ja ;
+    wdt:P39 wd:Q11498039,
+        wd:Q11621873,
+        wd:Q1354706,
+        wd:Q9891637 .
+
+wd:Q3080602 rdfs:label "鍋島光茂"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3090613 rdfs:label "近衛長子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q3091098 rdfs:label "市川房枝"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q309374 rdfs:label "橋本龍太郎"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948,
+        wd:Q6500849 .
+
+wd:Q3100078 rdfs:label "今川氏真"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q310126 rdfs:label "村山富市"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q311080 rdfs:label "上杉謙信"@ja ;
+    wdt:P39 wd:Q5367751 .
+
+wd:Q311183 rdfs:label "伊達政宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3119116 rdfs:label "青島幸男"@ja ;
+    wdt:P39 wd:Q11525354,
+        wd:Q14552828 .
+
+wd:Q312351 rdfs:label "仁孝天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3125457 rdfs:label "蜂須賀治昭"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125458 rdfs:label "蜂須賀光隆"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125459 rdfs:label "蜂須賀宗員"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125462 rdfs:label "蜂須賀宗鎮"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125463 rdfs:label "蜂須賀宗英"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125468 rdfs:label "蜂須賀重喜"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125469 rdfs:label "蜂須賀忠英"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125470 rdfs:label "蜂須賀綱通"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125471 rdfs:label "蜂須賀綱矩"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125473 rdfs:label "蜂須賀至央"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3125481 rdfs:label "蜂須賀至鎮"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3128092 rdfs:label "橋本雅邦"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q312821 rdfs:label "孝安天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q312841 rdfs:label "孝昭天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3128812 rdfs:label "林学斎"@ja ;
+    wdt:P39 wd:Q212071 .
+
+wd:Q313041 rdfs:label "孝霊天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3130609 rdfs:label "渡辺崋山"@ja ;
+    wdt:P39 wd:Q1316445 .
+
+wd:Q313119 rdfs:label "仁徳天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3133066 rdfs:label "松本良順"@ja ;
+    wdt:P39 wd:Q11445622,
+        wd:Q2368525,
+        wd:Q486839 .
+
+wd:Q313320 rdfs:label "明智光秀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q313321 rdfs:label "綏靖天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q313339 rdfs:label "小渕恵三"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q274948 .
+
+wd:Q313345 rdfs:label "安寧天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3135437 rdfs:label "有馬頼徸"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3136350 rdfs:label "馳浩"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q313638 rdfs:label "小泉八雲"@ja ;
+    wdt:P39 wd:Q176968 .
+
+wd:Q3136471 rdfs:label "松平定勝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3136681 rdfs:label "北条貞時"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q3137467 rdfs:label "南部信直"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q313801 rdfs:label "東山天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q313806 rdfs:label "光格天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q313808 rdfs:label "霊元天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q313864 rdfs:label "桃園天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q313870 rdfs:label "桜町天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3138980 rdfs:label "鍋島勝茂"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q313942 rdfs:label "後醍醐天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3140540 rdfs:label "堀尾忠氏"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q314063 rdfs:label "後桃園天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3140918 rdfs:label "細川忠利"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q314464 rdfs:label "徳川秀忠"@ja ;
+    wdt:P39 wd:Q205662 .
+
+wd:Q314481 rdfs:label "徳川家光"@ja ;
+    wdt:P39 wd:Q205662 .
+
+wd:Q3146360 rdfs:label "北条時輔"@ja ;
+    wdt:P39 wd:Q938069 .
+
+wd:Q314802 rdfs:label "天智天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q314817 rdfs:label "中御門天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3148404 rdfs:label "池田綱政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q314846 rdfs:label "桓武天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q314850 rdfs:label "垂仁天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3151480 rdfs:label "井上正巳"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q315549 rdfs:label "小磯國昭"@ja ;
+    wdt:P39 wd:Q274948,
+        wd:Q483997 .
+
+wd:Q315551 rdfs:label "鈴木善幸"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q315555 rdfs:label "細川護熙"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q315559 rdfs:label "寺内正毅"@ja ;
+    wdt:P39 wd:Q483997,
+        wd:Q711450 .
+
+wd:Q315561 rdfs:label "竹下登"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11065521,
+        wd:Q274948 .
+
+wd:Q315563 rdfs:label "加藤高明"@ja ;
+    wdt:P39 wd:Q14212 .
+
+wd:Q315565 rdfs:label "宮澤喜一"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q14552828,
+        wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948,
+        wd:Q6500849 .
+
+wd:Q315568 rdfs:label "大平正芳"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q315572 rdfs:label "岸信介"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q315574 rdfs:label "阿部信行"@ja ;
+    wdt:P39 wd:Q274948,
+        wd:Q483997 .
+
+wd:Q315579 rdfs:label "海部俊樹"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q3155838 rdfs:label "板倉勝弼"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q315584 rdfs:label "福田赳夫"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948 .
+
+wd:Q3155840 rdfs:label "板倉重宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q315591 rdfs:label "宇野宗佑"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q315594 rdfs:label "近衛文麿"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q315717 rdfs:label "東久邇宮稔彦王"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q315720 rdfs:label "羽田孜"@ja ;
+    wdt:P39 wd:Q1355043,
+        wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948,
+        wd:Q6500849,
+        wd:Q8191055 .
+
+wd:Q315725 rdfs:label "芦田均"@ja ;
+    wdt:P39 wd:Q1767791,
+        wd:Q274948 .
+
+wd:Q316637 rdfs:label "敏達天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q316651 rdfs:label "安徳天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q316654 rdfs:label "嵯峨天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q316658 rdfs:label "後鳥羽天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q316672 rdfs:label "成務天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q317675 rdfs:label "三木武夫"@ja ;
+    wdt:P39 wd:Q11595924,
+        wd:Q1355043,
+        wd:Q1767791,
+        wd:Q274948,
+        wd:Q28919543 .
+
+wd:Q317980 rdfs:label "孝徳天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q317984 rdfs:label "後白河天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q317997 rdfs:label "応神天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3181445 rdfs:label "土屋政直"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3181451 rdfs:label "京極高富"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q318151 rdfs:label "安部磯雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q3181548 rdfs:label "朽木昌綱"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q318209 rdfs:label "安倍晋太郎"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1355043,
+        wd:Q17506823 .
+
+wd:Q3183689 rdfs:label "望月圭介"@ja ;
+    wdt:P39 wd:Q11267748,
+        wd:Q21027733 .
+
+wd:Q3194228 rdfs:label "島津勝久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3194241 rdfs:label "桜井勝延"@ja ;
+    wdt:P39 wd:Q30185 .
+
+wd:Q3194330 rdfs:label "川合玉堂"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q3201302 rdfs:label "幸野楳嶺"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q320229 rdfs:label "後水尾天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3208763 rdfs:label "堀直虎"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3208802 rdfs:label "内藤信敦"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3209188 rdfs:label "松平近説"@ja ;
+    wdt:P39 wd:Q1036547,
+        wd:Q11584647,
+        wd:Q61982 .
+
+wd:Q321776 rdfs:label "渡辺美智雄"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q1767791 .
+
+wd:Q3239218 rdfs:label "宮本顕治"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q3246391 rdfs:label "友近聡朗"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q3265573 rdfs:label "徳田球一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q3266789 rdfs:label "媞子内親王"@ja ;
+    wdt:P39 wd:Q595038,
+        wd:Q719039 .
+
+wd:Q3276951 rdfs:label "柳井正"@ja ;
+    wdt:P39 wd:Q484876,
+        wd:Q623279 .
+
+wd:Q3280850 rdfs:label "牧野忠訓"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3285148 rdfs:label "間部詮勝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q32968 rdfs:label "竹谷とし子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q329704 rdfs:label "履中天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329713 rdfs:label "淳仁天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329723 rdfs:label "景行天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329728 rdfs:label "宣化天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329753 rdfs:label "醍醐天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329761 rdfs:label "舒明天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329765 rdfs:label "後光明天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329769 rdfs:label "反正天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q329792 rdfs:label "欽明天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3299343 rdfs:label "松平宗発"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3299344 rdfs:label "松平宗秀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3299350 rdfs:label "松平信順"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3299351 rdfs:label "松平乗寛"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3299364 rdfs:label "松平頼重"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3311512 rdfs:label "三島通陽"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q3315855 rdfs:label "平徳子"@ja ;
+    wdt:P39 wd:Q10875159 .
+
+wd:Q3317350 rdfs:label "水野忠之"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3327843 rdfs:label "徳川宗睦"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3327844 rdfs:label "徳川宗勝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3330132 rdfs:label "脇坂安宅"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3330158 rdfs:label "青山忠良"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3330171 rdfs:label "本多忠民"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3331255 rdfs:label "内藤信親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3331279 rdfs:label "土井利里"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3331296 rdfs:label "阿部正由"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3334056 rdfs:label "毛利秀就"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3335052 rdfs:label "永井尚庸"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3335053 rdfs:label "永井直敬"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3335056 rdfs:label "森長直"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3335080 rdfs:label "浅野長友"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q333530 rdfs:label "崇神天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q333548 rdfs:label "開化天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q333572 rdfs:label "孝元天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q333589 rdfs:label "鳩山一郎"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q3336095 rdfs:label "徳川斉温"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3336100 rdfs:label "徳川斉朝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3336101 rdfs:label "鳥居成次"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q334076 rdfs:label "正親町天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q334107 rdfs:label "石田三成"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q334644 rdfs:label "武烈天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3349072 rdfs:label "織田信友"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3349765 rdfs:label "小笠原長行"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3350116 rdfs:label "奥平忠政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q335177 rdfs:label "若槻禮次郎"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q335181 rdfs:label "天武天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q335188 rdfs:label "斎藤実"@ja ;
+    wdt:P39 wd:Q274948,
+        wd:Q483997 .
+
+wd:Q335191 rdfs:label "幣原喜重郎"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948 .
+
+wd:Q335194 rdfs:label "片山哲"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q274948 .
+
+wd:Q335198 rdfs:label "鈴木貫太郎"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q337379 rdfs:label "神崎武法"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q337383 rdfs:label "松あきら"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q337406 rdfs:label "太田昭宏"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q337436 rdfs:label "野坂参三"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q337446 rdfs:label "太田房江"@ja ;
+    wdt:P39 wd:Q15063280 .
+
+wd:Q337455 rdfs:label "浜四津敏子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q337507 rdfs:label "志位和夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q337762 rdfs:label "森山𥙿"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q3387880 rdfs:label "松平頼聰"@ja ;
+    wdt:P39 wd:Q11584647,
+        wd:Q61982 .
+
+wd:Q3387904 rdfs:label "滝脇信敏"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3387913 rdfs:label "伊奈忠次"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3388302 rdfs:label "柳生宗冬"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3423803 rdfs:label "鈴木礼治"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q3435725 rdfs:label "福田昭夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q34479 rdfs:label "昭和天皇"@ja ;
+    wdt:P39 wd:Q1542521,
+        wd:Q208233 .
+
+wd:Q3454090 rdfs:label "東龍太郎"@ja ;
+    wdt:P39 wd:Q11525354 .
+
+wd:Q3469318 rdfs:label "斎藤妙椿"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3473967 rdfs:label "里見忠義"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3477896 rdfs:label "安井誠一郎"@ja ;
+    wdt:P39 wd:Q11525354 .
+
+wd:Q3482119 rdfs:label "島津忠久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3482657 rdfs:label "鈴木俊一"@ja ;
+    wdt:P39 wd:Q11525354 .
+
+wd:Q3482658 rdfs:label "鈴木俊一"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q28919543 .
+
+wd:Q348466 rdfs:label "徳川家茂"@ja ;
+    wdt:P39 wd:Q131767 .
+
+wd:Q349238 rdfs:label "崇峻天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349243 rdfs:label "清和天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349246 rdfs:label "後深草天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349258 rdfs:label "允恭天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349259 rdfs:label "後嵯峨天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349263 rdfs:label "聖武天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349267 rdfs:label "宇多天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349271 rdfs:label "仁明天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349277 rdfs:label "継体天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349280 rdfs:label "陽成天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349281 rdfs:label "用明天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349284 rdfs:label "鳥羽天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349287 rdfs:label "崇徳天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349296 rdfs:label "後朱雀天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349414 rdfs:label "後西天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349440 rdfs:label "後陽成天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349452 rdfs:label "後柏原天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q349467 rdfs:label "後奈良天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3514329 rdfs:label "竹内栖鳳"@ja ;
+    wdt:P39 wd:Q11481067 .
+
+wd:Q351652 rdfs:label "広田弘毅"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q351656 rdfs:label "石橋湛山"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q351661 rdfs:label "濱口雄幸"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q351665 rdfs:label "林銑十郎"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q351832 rdfs:label "赤城徳彦"@ja ;
+    wdt:P39 wd:Q11657095,
+        wd:Q17506823,
+        wd:Q8191055 .
+
+wd:Q3519213 rdfs:label "古垣鉄郎"@ja ;
+    wdt:P39 wd:Q484876,
+        wd:Q589298 .
+
+wd:Q3525556 rdfs:label "緒方竹虎"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1767791 .
+
+wd:Q3530226 rdfs:label "戸田一西"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3530227 rdfs:label "戸田忠昌"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3530465 rdfs:label "土岐政房"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3530488 rdfs:label "徳川宗将"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3530492 rdfs:label "徳川斉荘"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3530498 rdfs:label "徳川義宜"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q353558 rdfs:label "平城天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3538594 rdfs:label "松平康任"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3544200 rdfs:label "青木愛"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q3546202 rdfs:label "山東昭子"@ja ;
+    wdt:P39 wd:Q11595924,
+        wd:Q14552828,
+        wd:Q28871679 .
+
+wd:Q354687 rdfs:label "犬養毅"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q3547232 rdfs:label "横光克彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q3550828 rdfs:label "大橋巨泉"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q356060 rdfs:label "後冷泉天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q356760 rdfs:label "山崎拓"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q17506823 .
+
+wd:Q356978 rdfs:label "古賀誠"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q357046 rdfs:label "六条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357221 rdfs:label "後堀河天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357225 rdfs:label "文徳天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357231 rdfs:label "三条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357235 rdfs:label "雄略天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357242 rdfs:label "弘文天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357246 rdfs:label "文武天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357249 rdfs:label "順徳天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357253 rdfs:label "仲恭天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3572590 rdfs:label "有馬頼寧"@ja ;
+    wdt:P39 wd:Q8191055 .
+
+wd:Q357261 rdfs:label "高倉天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357266 rdfs:label "仁賢天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q357269 rdfs:label "土御門天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3572692 rdfs:label "今川義忠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q357273 rdfs:label "清寧天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3573129 rdfs:label "藤井勇治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q359480 rdfs:label "岸田文雄"@ja ;
+    wdt:P39 wd:Q11394667,
+        wd:Q11394675,
+        wd:Q11394679,
+        wd:Q11394684,
+        wd:Q11500124,
+        wd:Q1355043,
+        wd:Q17506823,
+        wd:Q27972427 .
+
+wd:Q359620 rdfs:label "藤田幸久"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q359637 rdfs:label "冬柴鐵三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q359926 rdfs:label "泉信也"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q360249 rdfs:label "鉢呂吉雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q360395 rdfs:label "塩崎恭久"@ja ;
+    wdt:P39 wd:Q841962 .
+
+wd:Q3607346 rdfs:label "町田顯"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q360949 rdfs:label "源田実"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q360966 rdfs:label "顕宗天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q360972 rdfs:label "亀山天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q361000 rdfs:label "花山天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q361010 rdfs:label "安康天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q361019 rdfs:label "朱雀天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q361715 rdfs:label "渡辺喜美"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q3629056 rdfs:label "大仁田厚"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q3652649 rdfs:label "鈴木茂三郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q366114 rdfs:label "池田行彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q366267 rdfs:label "江川英龍"@ja ;
+    wdt:P39 wd:Q11664099 .
+
+wd:Q368401 rdfs:label "亀井善之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q369170 rdfs:label "植松恵美子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q3701385 rdfs:label "穂積八束"@ja ;
+    wdt:P39 wd:Q1336636 .
+
+wd:Q370505 rdfs:label "一条兼定"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q372808 rdfs:label "太田誠一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q372833 rdfs:label "鈴木恒夫"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q373949 rdfs:label "伏見天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q373997 rdfs:label "近衛天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q374015 rdfs:label "村上天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q374020 rdfs:label "四条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q374075 rdfs:label "後二条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q374087 rdfs:label "後一条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q374104 rdfs:label "円融天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q374125 rdfs:label "冷泉天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q374136 rdfs:label "淳和天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q3769401 rdfs:label "中浦ジュリアン"@ja ;
+    wdt:P39 wd:Q611644 .
+
+wd:Q3776344 rdfs:label "大村喜前"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q3776375 rdfs:label "生駒一正"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q377940 rdfs:label "村井嘉浩"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q378987 rdfs:label "欣子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q37979 rdfs:label "明仁"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q379996 rdfs:label "平沼騏一郎"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q380623 rdfs:label "後土御門天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q380695 rdfs:label "釜本邦茂"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q38081041 rdfs:label "大井川和彦"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q382005 rdfs:label "菅原道真"@ja ;
+    wdt:P39 wd:Q1133663,
+        wd:Q11385487,
+        wd:Q11394590,
+        wd:Q11500074,
+        wd:Q11547969,
+        wd:Q11621873,
+        wd:Q1185382,
+        wd:Q1351174,
+        wd:Q1354706,
+        wd:Q3270768,
+        wd:Q9891637 .
+
+wd:Q382089 rdfs:label "中山成彬"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q382231 rdfs:label "金子一義"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q382234 rdfs:label "楠木正成"@ja ;
+    wdt:P39 wd:Q1141023,
+        wd:Q11479716,
+        wd:Q2535820,
+        wd:Q497217 .
+
+wd:Q382311 rdfs:label "河村建夫"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q382368 rdfs:label "保利耕輔"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q38279444 rdfs:label "猿渡容盛"@ja ;
+    wdt:P39 wd:Q11452939 .
+
+wd:Q385000 rdfs:label "大石尚子"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q385957 rdfs:label "大島健一"@ja ;
+    wdt:P39 wd:Q121998 .
+
+wd:Q386183 rdfs:label "大田南畝"@ja ;
+    wdt:P39 wd:Q17212603 .
+
+wd:Q386254 rdfs:label "大谷光瑞"@ja ;
+    wdt:P39 wd:Q103163 .
+
+wd:Q38849 rdfs:label "石原慎太郎"@ja ;
+    wdt:P39 wd:Q11525354,
+        wd:Q11640486,
+        wd:Q14552828,
+        wd:Q17506823,
+        wd:Q28919543 .
+
+wd:Q388496 rdfs:label "馬淵澄夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q389617 rdfs:label "舛添要一"@ja ;
+    wdt:P39 wd:Q11525354,
+        wd:Q14552828,
+        wd:Q841962 .
+
+wd:Q3940225 rdfs:label "吉田六左ェ門"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q403684 rdfs:label "愛知揆一"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q404867 rdfs:label "鮎川義介"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q405085 rdfs:label "平沼赳夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q405527 rdfs:label "衛藤征士郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q405533 rdfs:label "辻元清美"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4121055 rdfs:label "松平恒雄"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q28869611 .
+
+wd:Q4121255 rdfs:label "河原田稼吉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4168118 rdfs:label "藤原泰子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q417418 rdfs:label "朱楽菅江"@ja ;
+    wdt:P39 wd:Q3108649 .
+
+wd:Q418119 rdfs:label "大畠章宏"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q418675 rdfs:label "甘利明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q418691 rdfs:label "郡司彰"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q28871679 .
+
+wd:Q418771 rdfs:label "小池晃"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q419010 rdfs:label "内山晃"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q419369 rdfs:label "有馬朗人"@ja ;
+    wdt:P39 wd:Q11595924,
+        wd:Q14552828,
+        wd:Q14917211 .
+
+wd:Q419501 rdfs:label "野坂昭如"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4215814 rdfs:label "織田信時"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4260732 rdfs:label "渡辺秀央"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q426551 rdfs:label "上坂昇"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q427310 rdfs:label "盤珪永琢"@ja ;
+    wdt:P39 wd:Q103163 .
+
+wd:Q430964 rdfs:label "北条時宗"@ja ;
+    wdt:P39 wd:Q1045904,
+        wd:Q497960 .
+
+wd:Q431052 rdfs:label "源頼家"@ja ;
+    wdt:P39 wd:Q131767 .
+
+wd:Q432342 rdfs:label "田名部匡省"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q4331767 rdfs:label "斯波義統"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q434037 rdfs:label "鴻池祥肇"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q434039 rdfs:label "森田たま"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q434397 rdfs:label "白柳誠一"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q45722,
+        wd:Q49476 .
+
+wd:Q4352480 rdfs:label "本多成重"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4352879 rdfs:label "高力清長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q435700 rdfs:label "土井たか子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q437127 rdfs:label "森稔"@ja ;
+    wdt:P39 wd:Q484876 .
+
+wd:Q4388117 rdfs:label "園田直"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823 .
+
+wd:Q4389091 rdfs:label "寺田典城"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4389583 rdfs:label "大内義弘"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q439675 rdfs:label "徳川家慶"@ja ;
+    wdt:P39 wd:Q205662 .
+
+wd:Q440000 rdfs:label "河村たかし"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q19962558 .
+
+wd:Q440149 rdfs:label "二条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q440447 rdfs:label "後村上天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q440454 rdfs:label "後伏見天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q440503 rdfs:label "花園天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q440518 rdfs:label "光孝天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q440538 rdfs:label "後宇多天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q440571 rdfs:label "中川昭一"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q441491 rdfs:label "小泉又次郎"@ja ;
+    wdt:P39 wd:Q905554 .
+
+wd:Q441718 rdfs:label "秋葉忠利"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q441933 rdfs:label "田中耕太郎"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q6566884 .
+
+wd:Q444899 rdfs:label "川口順子"@ja ;
+    wdt:P39 wd:Q1104488,
+        wd:Q1355043,
+        wd:Q14552828,
+        wd:Q28919543 .
+
+wd:Q446333 rdfs:label "輿石東"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q28871679 .
+
+wd:Q446705 rdfs:label "張富士夫"@ja ;
+    wdt:P39 wd:Q484876 .
+
+wd:Q447077 rdfs:label "重光葵"@ja ;
+    wdt:P39 wd:Q1355043,
+        wd:Q17506823,
+        wd:Q1767791,
+        wd:Q713166 .
+
+wd:Q447863 rdfs:label "深堀敏"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q4479990 rdfs:label "吉田健三"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q449540 rdfs:label "一条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q449915 rdfs:label "森田健作"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q451827 rdfs:label "称光天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q451864 rdfs:label "後亀山天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q451926 rdfs:label "後花園天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q45207 rdfs:label "アントニオ猪木"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4522153 rdfs:label "屋良朝苗"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q2285706 .
+
+wd:Q4522228 rdfs:label "瀬長亀次郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q452327 rdfs:label "仲井眞弘多"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q453168 rdfs:label "仁坂吉伸"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q455325 rdfs:label "藤山愛一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q455433 rdfs:label "千葉景子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q455848 rdfs:label "小渕優子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q455915 rdfs:label "福田富一"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q456161 rdfs:label "扇千景"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q11640486,
+        wd:Q14552828,
+        wd:Q28869611,
+        wd:Q842012 .
+
+wd:Q4561871 rdfs:label "大達茂雄"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q456352 rdfs:label "小宮山洋子"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q457004 rdfs:label "近藤鉄雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q457774 rdfs:label "園田博之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q45844 rdfs:label "後三条天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q459145 rdfs:label "高橋はるみ"@ja ;
+    wdt:P39 wd:Q33134383 .
+
+wd:Q459698 rdfs:label "野田聖子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q459998 rdfs:label "小沢一郎"@ja ;
+    wdt:P39 wd:Q11612810,
+        wd:Q17506823 .
+
+wd:Q460438 rdfs:label "広中和歌子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q462308 rdfs:label "樽床伸二"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q17506823 .
+
+wd:Q462330 rdfs:label "村山達雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q463137 rdfs:label "松岡利勝"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q463331 rdfs:label "谷垣禎一"@ja ;
+    wdt:P39 wd:Q11394677,
+        wd:Q11394688,
+        wd:Q11595924,
+        wd:Q11612963,
+        wd:Q11647872,
+        wd:Q1575361,
+        wd:Q1575411,
+        wd:Q17506823,
+        wd:Q6500849,
+        wd:Q841904,
+        wd:Q842012 .
+
+wd:Q464039 rdfs:label "長慶天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q464164 rdfs:label "山田正彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q464267 rdfs:label "堀河天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q465083 rdfs:label "白眞勲"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q465217 rdfs:label "田中眞紀子"@ja ;
+    wdt:P39 wd:Q11595924,
+        wd:Q1355043,
+        wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q465290 rdfs:label "蓮舫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4661556 rdfs:label "西銘順治"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q30185 .
+
+wd:Q4661882 rdfs:label "大田昌秀"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q4662029 rdfs:label "平良幸市"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q4662124 rdfs:label "稲嶺惠一"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q466321 rdfs:label "足利義詮"@ja ;
+    wdt:P39 wd:Q1154406 .
+
+wd:Q4666449 rdfs:label "阿部忠秋"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q467453 rdfs:label "逢沢一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q467613 rdfs:label "一休宗純"@ja ;
+    wdt:P39 wd:Q103163 .
+
+wd:Q4696975 rdfs:label "島尻安伊子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4700387 rdfs:label "赤座直保"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4700912 rdfs:label "熊代昭彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4700917 rdfs:label "野呂昭彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4700923 rdfs:label "山本明彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4700938 rdfs:label "西村明宏"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4700952 rdfs:label "長島昭久"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4700991 rdfs:label "山中あき子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4701105 rdfs:label "小泉昭男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4701114 rdfs:label "佐藤昭郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4701132 rdfs:label "秦野章"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4701145 rdfs:label "笠井亮"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q4701167 rdfs:label "西野陽"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4701180 rdfs:label "七条明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4704565 rdfs:label "桜井郁三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q471780 rdfs:label "藤原頼経"@ja ;
+    wdt:P39 wd:Q131767 .
+
+wd:Q471799 rdfs:label "後円融天皇"@ja ;
+    wdt:P39 wd:Q845929 .
+
+wd:Q471885 rdfs:label "光厳天皇"@ja ;
+    wdt:P39 wd:Q845929 .
+
+wd:Q471888 rdfs:label "崇光天皇"@ja ;
+    wdt:P39 wd:Q845929 .
+
+wd:Q472444 rdfs:label "安田久雄"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q49476 .
+
+wd:Q472775 rdfs:label "細川律夫"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q472792 rdfs:label "高木義明"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q4739136 rdfs:label "尼子国久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4739137 rdfs:label "塩冶興久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q474554 rdfs:label "中川雅治"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4757680 rdfs:label "津田信澄"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4761544 rdfs:label "安東舜季"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4761546 rdfs:label "安東愛季"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4778652 rdfs:label "青木一興"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4778838 rdfs:label "青山忠俊"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q47846 rdfs:label "菅直人"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948,
+        wd:Q6500849 .
+
+wd:Q4790671 rdfs:label "有馬晴純"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4803390 rdfs:label "三原朝彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4803440 rdfs:label "朝倉貞景"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4803443 rdfs:label "朝倉氏景 (8代当主)"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4803532 rdfs:label "浅野長勲"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4805074 rdfs:label "足利聡氏"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4805095 rdfs:label "蘆名盛舜"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4805099 rdfs:label "蘆名盛隆"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q4817775 rdfs:label "下田敦子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4817826 rdfs:label "大島敦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q4833062 rdfs:label "今野東"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q4846363 rdfs:label "湯沢三千男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q4885997 rdfs:label "木村勉 (政治家)"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q493818 rdfs:label "井上馨"@ja ;
+    wdt:P39 wd:Q1142265,
+        wd:Q6500849 .
+
+wd:Q4949213 rdfs:label "鷹司房子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q498238 rdfs:label "ツルネン・マルテイ"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q49869 rdfs:label "達増拓也"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q49875 rdfs:label "階猛"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49936 rdfs:label "井上義久"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49943 rdfs:label "近藤洋介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49949 rdfs:label "吉野正芳"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49953 rdfs:label "二田孝治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49955 rdfs:label "中野正志"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49960 rdfs:label "渡部篤"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49963 rdfs:label "佐藤剛男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49969 rdfs:label "小野寺五典"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49976 rdfs:label "加藤紘一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49988 rdfs:label "御法川信英"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49996 rdfs:label "秋葉賢也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q49998 rdfs:label "大島理森"@ja ;
+    wdt:P39 wd:Q11595924,
+        wd:Q14917211,
+        wd:Q17506823,
+        wd:Q22960931,
+        wd:Q28919543,
+        wd:Q8191055 .
+
+wd:Q49999 rdfs:label "江渡聡徳"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500838 .
+
+wd:Q506730 rdfs:label "石原宏高"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q507405 rdfs:label "福山哲郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q509600 rdfs:label "椎名悦三郎"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1355043 .
+
+wd:Q5097145 rdfs:label "南野知惠子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5097274 rdfs:label "才口千晴"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q5097389 rdfs:label "坂口力"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q5097413 rdfs:label "嘉数知賢"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5100105 rdfs:label "西村智奈美"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5102619 rdfs:label "島田智哉子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5102671 rdfs:label "高橋千鶴子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5102831 rdfs:label "新木栄吉"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q5115282 rdfs:label "鍵田忠兵衛"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5116037 rdfs:label "早川忠孝"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q511791 rdfs:label "藤崎一郎"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q5118007 rdfs:label "中川健藏"@ja ;
+    wdt:P39 wd:Q708492 .
+
+wd:Q513317 rdfs:label "岡田克也"@ja ;
+    wdt:P39 wd:Q1355043,
+        wd:Q17506823,
+        wd:Q1767791 .
+
+wd:Q514153 rdfs:label "平山高明"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q516232 rdfs:label "阿部知子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q516629 rdfs:label "池田元久"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q517297 rdfs:label "本間雅晴"@ja ;
+    wdt:P39 wd:Q1542521 .
+
+wd:Q5209113 rdfs:label "松浦大悟"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5209617 rdfs:label "山際大志郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5209645 rdfs:label "松本大輔"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5209856 rdfs:label "楠田大蔵"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5209859 rdfs:label "野沢太三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q521065 rdfs:label "佐藤尚武"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q28869611 .
+
+wd:Q521070 rdfs:label "田沼意次"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5227519 rdfs:label "伊達周宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5227524 rdfs:label "伊達晴宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5227536 rdfs:label "伊達宗村 (仙台藩主)"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5227539 rdfs:label "伊達斉邦"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5227540 rdfs:label "伊達斉宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5227543 rdfs:label "伊達斉村"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5227551 rdfs:label "伊達稙宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q52349 rdfs:label "中村法道"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q525406 rdfs:label "市田忠義"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q529313 rdfs:label "神本美恵子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q529418 rdfs:label "吉村美栄子"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q529792 rdfs:label "新藤義孝"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q17506823 .
+
+wd:Q529825 rdfs:label "山岡賢次"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q5307583 rdfs:label "黒田重徳"@ja ;
+    wdt:P39 wd:Q1542521 .
+
+wd:Q531460 rdfs:label "伊東マンショ"@ja ;
+    wdt:P39 wd:Q611644 .
+
+wd:Q532959 rdfs:label "榎本武揚"@ja ;
+    wdt:P39 wd:Q11632465,
+        wd:Q1355043,
+        wd:Q14917211,
+        wd:Q21027733,
+        wd:Q2660648,
+        wd:Q3315480 .
+
+wd:Q534338 rdfs:label "中山恭子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q534399 rdfs:label "加藤シヅエ"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q534539 rdfs:label "山谷えり子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q534585 rdfs:label "猪口邦子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5349198 rdfs:label "山下栄一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5349200 rdfs:label "鷲尾英一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5349896 rdfs:label "佐藤栄佐久"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5350009 rdfs:label "糸山英太郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q535167 rdfs:label "中山マサ"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q5354334 rdfs:label "加藤光泰"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5354695 rdfs:label "宮部長房"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5357768 rdfs:label "鍋島直大"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5360232 rdfs:label "藤原清衡"@ja ;
+    wdt:P39 wd:Q11497733 .
+
+wd:Q5360945 rdfs:label "大野緑一郎"@ja ;
+    wdt:P39 wd:Q11632428 .
+
+wd:Q5361574 rdfs:label "佐藤正久"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5363103 rdfs:label "深谷隆司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5363958 rdfs:label "河野一郎"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q1767791 .
+
+wd:Q5364319 rdfs:label "臼井日出男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5364369 rdfs:label "藤本祐司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5365082 rdfs:label "細川政元"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5365896 rdfs:label "小坂憲次"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q5366366 rdfs:label "岩永峯一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q536655 rdfs:label "平田健二"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q28869611 .
+
+wd:Q5366641 rdfs:label "渡部恒三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q536680 rdfs:label "林田悠紀夫"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q27697103 .
+
+wd:Q5367427 rdfs:label "櫻内義雄"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q17506823 .
+
+wd:Q5367526 rdfs:label "倉成正"@ja ;
+    wdt:P39 wd:Q1355043,
+        wd:Q17506823 .
+
+wd:Q5367855 rdfs:label "岡崎勝男"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1355043,
+        wd:Q17506823 .
+
+wd:Q5367903 rdfs:label "中山太郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q5368838 rdfs:label "藤原多子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5369127 rdfs:label "松平家清"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5370045 rdfs:label "織田寿重丸"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5370062 rdfs:label "佐竹義理"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5370076 rdfs:label "織田信美"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5371065 rdfs:label "金子恵美 (参議院議員)"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5374641 rdfs:label "倭姫王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5404930 rdfs:label "新井悦二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q541040 rdfs:label "小堀政一"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q543930 rdfs:label "良源"@ja ;
+    wdt:P39 wd:Q103163 .
+
+wd:Q5462657 rdfs:label "水田三喜男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5462706 rdfs:label "植木庚子郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5462919 rdfs:label "林義郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5463021 rdfs:label "松永光"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q548239 rdfs:label "原口一博"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q17506823 .
+
+wd:Q5507511 rdfs:label "三条有子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507512 rdfs:label "藤原嫄子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507513 rdfs:label "藤原育子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507514 rdfs:label "藤原寛子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507516 rdfs:label "藤原威子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507517 rdfs:label "藤原遵子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507519 rdfs:label "藤原歓子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507520 rdfs:label "藤原賢子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507521 rdfs:label "藤原妍子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507522 rdfs:label "徳大寺忻子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507524 rdfs:label "藤原忻子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507526 rdfs:label "西園寺姞子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507527 rdfs:label "西園寺嬉子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507528 rdfs:label "藤原聖子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507534 rdfs:label "九条立子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507535 rdfs:label "藤原得子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507536 rdfs:label "大炊御門麗子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507537 rdfs:label "藤原穏子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507541 rdfs:label "藤原呈子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507542 rdfs:label "藤原娍子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q5507760 rdfs:label "中森福代"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5508556 rdfs:label "松本文明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5508567 rdfs:label "日森文尋"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5510942 rdfs:label "不破光治"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5517693 rdfs:label "長谷川岳"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5517695 rdfs:label "橋本岳"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5517696 rdfs:label "石崎岳"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5520435 rdfs:label "蒲生秀行"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q552388 rdfs:label "城島光力"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849 .
+
+wd:Q552398 rdfs:label "滝実"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5530859 rdfs:label "中谷元"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q28868201,
+        wd:Q6500838 .
+
+wd:Q5533162 rdfs:label "佐田玄一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q553548 rdfs:label "下村定"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q555465 rdfs:label "後光厳天皇"@ja ;
+    wdt:P39 wd:Q845929 .
+
+wd:Q555520 rdfs:label "光明天皇"@ja ;
+    wdt:P39 wd:Q845929 .
+
+wd:Q5577961 rdfs:label "坂本剛二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5587722 rdfs:label "吉村剛太郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5631451 rdfs:label "小川郷太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5631563 rdfs:label "吉野信次"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5631780 rdfs:label "石井光次郎"@ja ;
+    wdt:P39 wd:Q1767791 .
+
+wd:Q5632152 rdfs:label "高碕達之助"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5632202 rdfs:label "福田一"@ja ;
+    wdt:P39 wd:Q11612810,
+        wd:Q1575411,
+        wd:Q22960931,
+        wd:Q841904 .
+
+wd:Q5632501 rdfs:label "田中六助"@ja ;
+    wdt:P39 wd:Q1078482 .
+
+wd:Q5632536 rdfs:label "山中貞則"@ja ;
+    wdt:P39 wd:Q28919543 .
+
+wd:Q5632576 rdfs:label "小此木彦三郎"@ja ;
+    wdt:P39 wd:Q11065521 .
+
+wd:Q5632639 rdfs:label "田村元"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5637084 rdfs:label "小此木八郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5639959 rdfs:label "船田元"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5639964 rdfs:label "広田一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5639969 rdfs:label "石井一"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q5675759 rdfs:label "吉川春子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5675941 rdfs:label "米長晴信"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5680891 rdfs:label "畠山政長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5680893 rdfs:label "畠山高政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5680905 rdfs:label "畠山義隆"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5680924 rdfs:label "松本洋平"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q568211 rdfs:label "濱尾文郎"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q45722,
+        wd:Q49476 .
+
+wd:Q5752256 rdfs:label "岡部英明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5752333 rdfs:label "尾辻秀久"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q28871679,
+        wd:Q841962 .
+
+wd:Q5752346 rdfs:label "吉井英勝"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5752395 rdfs:label "牧原秀樹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5752415 rdfs:label "丹羽秀樹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5752597 rdfs:label "神風英男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5760248 rdfs:label "土方雄永"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q57647 rdfs:label "野田佳彦"@ja ;
+    wdt:P39 wd:Q11547841,
+        wd:Q11634582,
+        wd:Q17506823,
+        wd:Q274948,
+        wd:Q6500849 .
+
+wd:Q5766997 rdfs:label "日根野弘就"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5767002 rdfs:label "日根野高吉"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5770121 rdfs:label "牧山弘恵"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5770152 rdfs:label "笠浩史"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5770189 rdfs:label "石田博英"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823 .
+
+wd:Q5770251 rdfs:label "松野博一"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q5770256 rdfs:label "芝博一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5770397 rdfs:label "仲野博子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5770500 rdfs:label "岩永浩美"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5770562 rdfs:label "吉田博美"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5770748 rdfs:label "広瀬景房"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5770815 rdfs:label "平口洋"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5770837 rdfs:label "今井宏 (政治家)"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5770884 rdfs:label "梶山弘志"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5770910 rdfs:label "川内博史"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5771003 rdfs:label "大串博志"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5771133 rdfs:label "山本博司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5771167 rdfs:label "世耕弘成"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5771448 rdfs:label "西博義"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5771482 rdfs:label "荒井広幸"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q5772406 rdfs:label "風間昶"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5772420 rdfs:label "徳永久志"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5772457 rdfs:label "迫水久常"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q58213 rdfs:label "玄葉光一郎"@ja ;
+    wdt:P39 wd:Q1355043,
+        wd:Q17506823 .
+
+wd:Q582685 rdfs:label "赤松広隆"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5872336 rdfs:label "後藤斎"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q5872346 rdfs:label "木村仁"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q587980 rdfs:label "京極高次"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q589151 rdfs:label "長宗我部盛親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q589811 rdfs:label "北条時政"@ja ;
+    wdt:P39 wd:Q1045904 .
+
+wd:Q5908052 rdfs:label "保科正益"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5965205 rdfs:label "北条氏恭"@ja ;
+    wdt:P39 wd:Q11584647,
+        wd:Q61982 .
+
+wd:Q5986270 rdfs:label "飛鳥田一雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5986288 rdfs:label "市川一朗"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5986289 rdfs:label "宮下一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q5986305 rdfs:label "塚田一郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q5990105 rdfs:label "木下家定"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5995759 rdfs:label "池田勝正"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5996119 rdfs:label "生駒高俊"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q5996298 rdfs:label "石井郁子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q604853 rdfs:label "中川 正壽"@ja ;
+    wdt:P39 wd:Q103163 .
+
+wd:Q605442 rdfs:label "高橋千秋"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q606867 rdfs:label "有馬豊氏"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6078899 rdfs:label "今井功 (裁判官)"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q6080154 rdfs:label "石田正継"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q608193 rdfs:label "藤原頼嗣"@ja ;
+    wdt:P39 wd:Q131767 .
+
+wd:Q6088156 rdfs:label "古賀一成"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6088170 rdfs:label "田島一成"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6088226 rdfs:label "一色義道"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6088231 rdfs:label "一色義定"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q60949 rdfs:label "白河天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q6094931 rdfs:label "外山斎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6095349 rdfs:label "伊東義祐"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6102348 rdfs:label "吉田泉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6102444 rdfs:label "永野嚴雄"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q612983 rdfs:label "徳川慶臧"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6137459 rdfs:label "亮子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q6138120 rdfs:label "加賀谷健"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6138216 rdfs:label "加納時男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6138461 rdfs:label "小林正夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6139860 rdfs:label "浅野史郎"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q6140479 rdfs:label "大木浩"@ja ;
+    wdt:P39 wd:Q28919543 .
+
+wd:Q6140514 rdfs:label "遠藤乙彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6140878 rdfs:label "加藤良三"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q6141727 rdfs:label "佐々江賢一郎"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q6142403 rdfs:label "中谷智司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6143022 rdfs:label "松永信雄"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q6143467 rdfs:label "姈子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q6143541 rdfs:label "木村俊夫"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823 .
+
+wd:Q614459 rdfs:label "松野頼三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q614464 rdfs:label "竹本直一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6144662 rdfs:label "朝海浩一郎"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q6144710 rdfs:label "牛場信彦"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q614476 rdfs:label "伊藤達也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6145785 rdfs:label "邦子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q6146153 rdfs:label "井野碩哉"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6146408 rdfs:label "統子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q6146692 rdfs:label "下田武三"@ja ;
+    wdt:P39 wd:Q11515703,
+        wd:Q16147003 .
+
+wd:Q6146757 rdfs:label "高島益郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q6147629 rdfs:label "丹波實"@ja ;
+    wdt:P39 wd:Q121998 .
+
+wd:Q6147652 rdfs:label "東郷文彦"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q6147682 rdfs:label "中島敏次郎"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q6147883 rdfs:label "遠山敦子"@ja ;
+    wdt:P39 wd:Q842359 .
+
+wd:Q615236 rdfs:label "中川一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6203082 rdfs:label "赤間二郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6203332 rdfs:label "稲垣実男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6203781 rdfs:label "田村義顕"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q631099 rdfs:label "柳生宗矩"@ja ;
+    wdt:P39 wd:Q11438061,
+        wd:Q61982 .
+
+wd:Q6311456 rdfs:label "林潤"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6311513 rdfs:label "松本純"@ja ;
+    wdt:P39 wd:Q1575411,
+        wd:Q17506823 .
+
+wd:Q6313056 rdfs:label "石井準一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6313764 rdfs:label "東順治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6314413 rdfs:label "小川淳也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6314438 rdfs:label "山本順三"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6345808 rdfs:label "榛葉賀津也"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6346361 rdfs:label "加賀井重望"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6356567 rdfs:label "亀井茲政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6356572 rdfs:label "亀井政矩"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6360206 rdfs:label "山本香苗"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6360573 rdfs:label "田嶋要"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6365256 rdfs:label "荒畑寒村"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6366201 rdfs:label "丸谷佳織"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6378065 rdfs:label "平沢勝栄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6378122 rdfs:label "西本勝子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6378155 rdfs:label "加藤勝信"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6378611 rdfs:label "加藤泰秋"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6379490 rdfs:label "立花道雪"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6379555 rdfs:label "河尻秀隆"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6381394 rdfs:label "宮路和明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381420 rdfs:label "谷口和史"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381535 rdfs:label "郡和子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381578 rdfs:label "太田和美 (政治家)"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381615 rdfs:label "田中和徳"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381623 rdfs:label "愛知和男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381630 rdfs:label "弘友和夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6381645 rdfs:label "北側一雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381782 rdfs:label "椎名一保"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6381788 rdfs:label "赤羽一嘉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6381814 rdfs:label "中根一幸"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6383605 rdfs:label "桝屋敬悟"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6383646 rdfs:label "穀田恵二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6383680 rdfs:label "糸数慶子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6383690 rdfs:label "永岡桂子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6383814 rdfs:label "北神圭朗"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6383909 rdfs:label "鈴木馨祐"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6383911 rdfs:label "津村啓介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q638431 rdfs:label "上田清司"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q6385310 rdfs:label "武見敬三"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6387748 rdfs:label "原田憲"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6389237 rdfs:label "水野賢一"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q6389276 rdfs:label "上野賢一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6389323 rdfs:label "江田憲司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6389342 rdfs:label "北橋健治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6389383 rdfs:label "若宮健嗣"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6389412 rdfs:label "松木謙公"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6391370 rdfs:label "溝手顕正"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6391372 rdfs:label "長谷川憲正"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6391984 rdfs:label "泉健太"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6391999 rdfs:label "木庭健太郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6392000 rdfs:label "工藤堅太郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q6398519 rdfs:label "服部一忠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6406066 rdfs:label "井上喜一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q640668 rdfs:label "柳澤伯夫"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q841962 .
+
+wd:Q6416606 rdfs:label "中村喜四郎"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q11595924,
+        wd:Q17506823 .
+
+wd:Q6418709 rdfs:label "木内重四郎"@ja ;
+    wdt:P39 wd:Q132050 .
+
+wd:Q6418998 rdfs:label "遠山清彦"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6419004 rdfs:label "荒木清寛"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6419024 rdfs:label "小野清子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6419113 rdfs:label "中野清 (政治家)"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6419134 rdfs:label "前川清成"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6425959 rdfs:label "那須弘平"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q6425965 rdfs:label "大塚耕平"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6426211 rdfs:label "萩生田光一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6426214 rdfs:label "平田耕一"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q6426218 rdfs:label "加藤公一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6426221 rdfs:label "岸宏一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6426239 rdfs:label "武正公一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6426240 rdfs:label "谷公一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6426244 rdfs:label "山本公一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6426248 rdfs:label "市村浩一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6426251 rdfs:label "清水鴻一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6426432 rdfs:label "松井孝治"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6426455 rdfs:label "佐藤公治"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q6433131 rdfs:label "藤谷光信"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6433619 rdfs:label "伊藤公介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6433810 rdfs:label "松田公太"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6433881 rdfs:label "長崎幸太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6433885 rdfs:label "田村耕太郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6434809 rdfs:label "佐々木更三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6435116 rdfs:label "西川公也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6435368 rdfs:label "山本幸三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6442369 rdfs:label "九条任子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q6443883 rdfs:label "早川久美子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6444659 rdfs:label "室井邦彦"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q6444691 rdfs:label "行田邦子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6444695 rdfs:label "谷岡郁子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6446052 rdfs:label "栗本昌臧"@ja ;
+    wdt:P39 wd:Q11445622 .
+
+wd:Q6446275 rdfs:label "黒田長溥"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6446276 rdfs:label "黒田長知"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6451909 rdfs:label "萩山教嚴"@ja ;
+    wdt:P39 wd:Q11657095,
+        wd:Q17506823 .
+
+wd:Q6451984 rdfs:label "井沢京子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6451997 rdfs:label "西川京子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6452012 rdfs:label "旭道山和泰"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6455155 rdfs:label "平山幸司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6455196 rdfs:label "中馬弘毅"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6455257 rdfs:label "高力正長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q651048 rdfs:label "笹川堯"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6526509 rdfs:label "栗本鋤雲"@ja ;
+    wdt:P39 wd:Q1049618,
+        wd:Q11445622,
+        wd:Q3307502,
+        wd:Q5640582,
+        wd:Q81986 .
+
+wd:Q653000 rdfs:label "近藤昭一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6533396 rdfs:label "三島中洲"@ja ;
+    wdt:P39 wd:Q11165895 .
+
+wd:Q6537362 rdfs:label "塙保己一"@ja ;
+    wdt:P39 wd:Q11540942 .
+
+wd:Q6538130 rdfs:label "屋代弘賢"@ja ;
+    wdt:P39 wd:Q11445639,
+        wd:Q11626436 .
+
+wd:Q655960 rdfs:label "黒岩祐治"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q656008 rdfs:label "蜂須賀茂韶"@ja ;
+    wdt:P39 wd:Q1054379,
+        wd:Q11525354,
+        wd:Q3034557 .
+
+wd:Q656085 rdfs:label "山田啓二"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q656135 rdfs:label "島津久光"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6564466 rdfs:label "藤田東湖"@ja ;
+    wdt:P39 wd:Q11558896 .
+
+wd:Q656644 rdfs:label "尾崎正直"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q6607348 rdfs:label "谷川秀善"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q661410 rdfs:label "小泉進次郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q662482 rdfs:label "武田勝頼"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6638429 rdfs:label "松平頼策"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q665679 rdfs:label "堤康次郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q668406 rdfs:label "有田八郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q669596 rdfs:label "西尾末広"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q1767791 .
+
+wd:Q672741 rdfs:label "德川家達"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6729101 rdfs:label "前田玄以"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6739515 rdfs:label "藤野真紀子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6739516 rdfs:label "菊田真紀子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6739697 rdfs:label "牧野親成"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6739963 rdfs:label "西田実仁"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6746560 rdfs:label "間部詮房"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6746574 rdfs:label "坂井学"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6746585 rdfs:label "寺田学"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782249 rdfs:label "赤池誠章"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782257 rdfs:label "糸川正晃"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782264 rdfs:label "平将明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782266 rdfs:label "谷合正明"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782350 rdfs:label "柴山昌彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782366 rdfs:label "今村雅弘"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782382 rdfs:label "田端正広"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782391 rdfs:label "盛山正仁"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782407 rdfs:label "松山政司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782433 rdfs:label "小池正勝"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782441 rdfs:label "関口昌一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782480 rdfs:label "大河原雅子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782540 rdfs:label "近藤正道"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782544 rdfs:label "内藤正光"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782545 rdfs:label "大石正光"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q6782602 rdfs:label "赤松正雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782667 rdfs:label "藤原正司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782669 rdfs:label "石橋政嗣"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782673 rdfs:label "水戸将史"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782686 rdfs:label "土屋正忠"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782738 rdfs:label "石田真敏"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782740 rdfs:label "倉田雅年"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782781 rdfs:label "田名部匡代"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6782783 rdfs:label "浜田昌良"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782788 rdfs:label "那谷屋正義"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6782819 rdfs:label "後藤田正純"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6788035 rdfs:label "松平家忠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6788046 rdfs:label "松平斉孝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6788054 rdfs:label "大給恒"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6788056 rdfs:label "松平信綱"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6788060 rdfs:label "松平定安"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6788199 rdfs:label "大野松茂"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6788220 rdfs:label "松浦清"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6837950 rdfs:label "高木美智代"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6837954 rdfs:label "柚木道義"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6842915 rdfs:label "石井みどり"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6842917 rdfs:label "松島みどり"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6843722 rdfs:label "小林美恵子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6845321 rdfs:label "高井美穂"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6849889 rdfs:label "藤田幹雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6849902 rdfs:label "大門実紀史"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6862455 rdfs:label "三村家親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6864590 rdfs:label "福田峰之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6869277 rdfs:label "川崎稔"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6869306 rdfs:label "寺田稔"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6882969 rdfs:label "下条みつ"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6883182 rdfs:label "近藤三津枝"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6883215 rdfs:label "岩城光英"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6883317 rdfs:label "岡本充功"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6883330 rdfs:label "三谷光男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6883409 rdfs:label "柳澤光美"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6884170 rdfs:label "宮部継潤"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6884872 rdfs:label "水野勝知"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6912213 rdfs:label "平松守彦"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q6918012 rdfs:label "近藤基彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6918034 rdfs:label "広津素子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6918520 rdfs:label "杉田元司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6918578 rdfs:label "尾立源幸"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6935926 rdfs:label "村井宗明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6964552 rdfs:label "風間直樹"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q6964565 rdfs:label "岡田直樹"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q696583 rdfs:label "野中広務"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q697258 rdfs:label "町村信孝"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11595924,
+        wd:Q1355043,
+        wd:Q14917211,
+        wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q697969 rdfs:label "高村正彦"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500838 .
+
+wd:Q697984 rdfs:label "西村眞悟"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q6993673 rdfs:label "松平頼純"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q699712 rdfs:label "木戸幸一"@ja ;
+    wdt:P39 wd:Q712143 .
+
+wd:Q6997690 rdfs:label "松平武聰"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q6998366 rdfs:label "徳川宗堯"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q701990 rdfs:label "小和田恆"@ja ;
+    wdt:P39 wd:Q728656 .
+
+wd:Q704345 rdfs:label "山口壮"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7046121 rdfs:label "佐藤信秋"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7046134 rdfs:label "遠藤宣彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7046148 rdfs:label "近江屋信広"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7046155 rdfs:label "田辺信宏"@ja ;
+    wdt:P39 wd:Q19961107 .
+
+wd:Q7046183 rdfs:label "井脇ノブ子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7046185 rdfs:label "岡下信子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7046209 rdfs:label "松野信夫"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7046242 rdfs:label "筒井信隆"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7046245 rdfs:label "森矗昶"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q704979 rdfs:label "山尾庸三"@ja ;
+    wdt:P39 wd:Q1336636 .
+
+wd:Q7051265 rdfs:label "古屋範子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7051315 rdfs:label "三ツ矢憲生"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7051324 rdfs:label "武内則男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7051352 rdfs:label "石田祝稔"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q706258 rdfs:label "田中康夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q706296 rdfs:label "橋下徹"@ja ;
+    wdt:P39 wd:Q11440818,
+        wd:Q15063280 .
+
+wd:Q7077213 rdfs:label "小田氏治"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7079832 rdfs:label "小笠原長重"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7094442 rdfs:label "小野寺義道"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7105678 rdfs:label "安次富修"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7105697 rdfs:label "津野修"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q7105699 rdfs:label "宇野治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q710704 rdfs:label "正力松太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q711001 rdfs:label "山内容堂"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q714049 rdfs:label "黒田清隆"@ja ;
+    wdt:P39 wd:Q254907,
+        wd:Q274948 .
+
+wd:Q714908 rdfs:label "後藤文夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q714951 rdfs:label "岡田啓介"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q715231 rdfs:label "米内光政"@ja ;
+    wdt:P39 wd:Q274948 .
+
+wd:Q717038 rdfs:label "孫正義"@ja ;
+    wdt:P39 wd:Q484876 .
+
+wd:Q717308 rdfs:label "白鳥敏夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7201026 rdfs:label "伊達斉義"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7223538 rdfs:label "西園寺禧子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7224597 rdfs:label "伊達宗敦"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7244649 rdfs:label "井上内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244659 rdfs:label "珣子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244663 rdfs:label "馨子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244748 rdfs:label "昌子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244776 rdfs:label "範子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244792 rdfs:label "利子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244822 rdfs:label "正子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244825 rdfs:label "章子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244846 rdfs:label "禎子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244849 rdfs:label "曦子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244858 rdfs:label "篤子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q7244872 rdfs:label "姝子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q724526 rdfs:label "星野恒"@ja ;
+    wdt:P39 wd:Q140686 .
+
+wd:Q728162 rdfs:label "徳川治紀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q729599 rdfs:label "伊吹文明"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q6500849,
+        wd:Q842359 .
+
+wd:Q730869 rdfs:label "東国原英夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q730991 rdfs:label "鴨下一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7312315 rdfs:label "佐藤錬"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q731419 rdfs:label "里脇浅次郎"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q45722,
+        wd:Q49476 .
+
+wd:Q732087 rdfs:label "枝野幸男"@ja ;
+    wdt:P39 wd:Q1197264,
+        wd:Q1355043,
+        wd:Q17506823 .
+
+wd:Q732124 rdfs:label "横内正明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q733625 rdfs:label "岡田武夫"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q49476 .
+
+wd:Q735829 rdfs:label "荻原健司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q736948 rdfs:label "北条氏政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q738197 rdfs:label "増田寛也"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q1623534 .
+
+wd:Q7385266 rdfs:label "主濱了"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7385287 rdfs:label "服部良一 (政治家)"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7385293 rdfs:label "中川了滋"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q7385320 rdfs:label "赤沢亮正"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7385322 rdfs:label "田中良生"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7385342 rdfs:label "武田良太"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7385499 rdfs:label "土肥隆一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7385519 rdfs:label "松村龍二"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7385524 rdfs:label "山根隆治"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7385565 rdfs:label "笹木竜三"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7385593 rdfs:label "黒田了一"@ja ;
+    wdt:P39 wd:Q15063280 .
+
+wd:Q7396491 rdfs:label "河本三郎"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7397561 rdfs:label "渕上貞雄"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7399040 rdfs:label "相良晴広"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7399045 rdfs:label "相良義陽"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7400629 rdfs:label "栗山茂"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q7402768 rdfs:label "酒井忠勝"@ja ;
+    wdt:P39 wd:Q1196812,
+        wd:Q61982,
+        wd:Q956844 .
+
+wd:Q740354 rdfs:label "細川勝元"@ja ;
+    wdt:P39 wd:Q1141023,
+        wd:Q1202497,
+        wd:Q61982 .
+
+wd:Q7420872 rdfs:label "吉川沙織"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7424985 rdfs:label "佐々木秀義"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7425575 rdfs:label "藤堂高猷"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7426387 rdfs:label "家西悟"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7426404 rdfs:label "井上哲士"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7426414 rdfs:label "二之湯智"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7426418 rdfs:label "高山智司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7426422 rdfs:label "梅村聡"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7426488 rdfs:label "片山さつき"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446686 rdfs:label "北村誠吾"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446701 rdfs:label "衛藤晟一"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7446709 rdfs:label "金田誠一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446719 rdfs:label "村上誠一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446721 rdfs:label "清水清一朗"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446726 rdfs:label "萩原誠司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446732 rdfs:label "又市征治"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7446735 rdfs:label "仲村正治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446737 rdfs:label "逢坂誠二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7446743 rdfs:label "鈴木政二"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7446761 rdfs:label "赤嶺政賢"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q744989 rdfs:label "伊東正義"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823,
+        wd:Q1767791,
+        wd:Q274948 .
+
+wd:Q745045 rdfs:label "青木幹雄"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7450595 rdfs:label "仙石秀久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7480618 rdfs:label "大関増勤"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7480624 rdfs:label "鳥居忠文"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7496342 rdfs:label "佐藤茂樹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7496361 rdfs:label "北村茂男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7496369 rdfs:label "大前繁雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7496422 rdfs:label "後藤茂之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7496423 rdfs:label "富田茂之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7496492 rdfs:label "椎名康胤"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7496529 rdfs:label "川条志嘉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7496850 rdfs:label "島津忠良"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7497187 rdfs:label "金丸信"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q17506823,
+        wd:Q1767791 .
+
+wd:Q7497524 rdfs:label "古本伸一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7497583 rdfs:label "井上信治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7497613 rdfs:label "新庄直頼"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7497735 rdfs:label "松下新平"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7497769 rdfs:label "奥野信亮"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7497773 rdfs:label "末松信介"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7497782 rdfs:label "伊藤信太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7497821 rdfs:label "足立信也"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7497831 rdfs:label "小野晋也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q749873 rdfs:label "高山右近"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7500159 rdfs:label "西田昌司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7504421 rdfs:label "渡辺周"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7504751 rdfs:label "加藤修一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7504756 rdfs:label "高鳥修一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7504800 rdfs:label "池口修次"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7504802 rdfs:label "吉良州司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7505073 rdfs:label "水岡俊一"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7505080 rdfs:label "山口俊一"@ja ;
+    wdt:P39 wd:Q11394674,
+        wd:Q11394675,
+        wd:Q11394679,
+        wd:Q11394710,
+        wd:Q11607535,
+        wd:Q11634582,
+        wd:Q17506823,
+        wd:Q6866352 .
+
+wd:Q7505129 rdfs:label "務台俊介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7554691 rdfs:label "仁比聡平"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7559099 rdfs:label "相馬盛胤 (十五代当主)"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7559115 rdfs:label "相馬義胤 (十六代当主)"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7585537 rdfs:label "石黒忠篤"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q761596 rdfs:label "浅野長晟"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7649808 rdfs:label "簗瀬進"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7650544 rdfs:label "諏訪頼満 (安芸守)"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7667561 rdfs:label "宗義和"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q767309 rdfs:label "保科正貞"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7674280 rdfs:label "伊藤忠彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7674356 rdfs:label "犬塚直史"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7676160 rdfs:label "山口泰明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7676453 rdfs:label "佐藤泰介"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7676684 rdfs:label "三日月大造"@ja ;
+    wdt:P39 wd:Q1623534,
+        wd:Q17506823 .
+
+wd:Q7677025 rdfs:label "近藤崇晴"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q7677044 rdfs:label "木村隆秀"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677066 rdfs:label "佐々木隆博"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677127 rdfs:label "福岡資麿"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677143 rdfs:label "江藤隆美"@ja ;
+    wdt:P39 wd:Q11065521,
+        wd:Q17506823 .
+
+wd:Q7677156 rdfs:label "吉川貴盛"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677166 rdfs:label "高梨澄頼"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7677198 rdfs:label "川合孝典"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7677214 rdfs:label "藤井孝男"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7677217 rdfs:label "藤波孝生"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q17506823 .
+
+wd:Q7677224 rdfs:label "牧野京夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7677226 rdfs:label "越智隆雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677320 rdfs:label "石関貴史"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677341 rdfs:label "小杉隆"@ja ;
+    wdt:P39 wd:Q14917211,
+        wd:Q17506823 .
+
+wd:Q7677346 rdfs:label "三ッ林隆志"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677348 rdfs:label "森田高"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7677354 rdfs:label "長安豊"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677366 rdfs:label "大塚高司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677369 rdfs:label "篠原孝"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677383 rdfs:label "谷畑孝"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677391 rdfs:label "山本孝史"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7677398 rdfs:label "高島秋帆"@ja ;
+    wdt:P39 wd:Q11578236,
+        wd:Q11652402 .
+
+wd:Q7677486 rdfs:label "谷口隆義"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7677977 rdfs:label "遠藤武彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678089 rdfs:label "犬養健"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678111 rdfs:label "林田彪"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678114 rdfs:label "保坂武"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678155 rdfs:label "徳田毅"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678527 rdfs:label "江藤拓"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678536 rdfs:label "大塚拓"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678543 rdfs:label "山本拓 (政治家)"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678552 rdfs:label "柳本卓治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7678622 rdfs:label "平井卓也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7680979 rdfs:label "丸川珠代"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7681638 rdfs:label "長谷川大紋"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7688272 rdfs:label "馬渡龍治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7688352 rdfs:label "堀達也"@ja ;
+    wdt:P39 wd:Q33134383 .
+
+wd:Q7688372 rdfs:label "谷本龍哉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7699921 rdfs:label "園田天光光"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7705291 rdfs:label "福井照"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7706860 rdfs:label "松崎哲久"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7706869 rdfs:label "中村哲治"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q7706881 rdfs:label "江崎鉄磨"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7706889 rdfs:label "岩國哲人"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7706899 rdfs:label "菅野哲雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7706904 rdfs:label "森本哲生"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7706917 rdfs:label "野村哲郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7706925 rdfs:label "坂本哲志"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7706956 rdfs:label "塩川鉄也"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q777936 rdfs:label "鳩山邦夫"@ja ;
+    wdt:P39 wd:Q1578065,
+        wd:Q17506823 .
+
+wd:Q7813227 rdfs:label "鵜崎庚午郎"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q7813574 rdfs:label "土岐成頼"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7813576 rdfs:label "土岐頼稔"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7813630 rdfs:label "藤田宙靖"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q7813725 rdfs:label "玉澤徳一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7813732 rdfs:label "泉德治"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q7820173 rdfs:label "浮島とも子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7820335 rdfs:label "渡辺具能"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7825794 rdfs:label "鳥居忠春"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7827415 rdfs:label "黄川田徹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7827417 rdfs:label "松岡徹"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7827620 rdfs:label "遠藤利明"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7827654 rdfs:label "水落敏栄"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7827658 rdfs:label "古川俊治"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7827663 rdfs:label "轟木利治"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7827692 rdfs:label "阿部俊子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7827762 rdfs:label "小島敏男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7827789 rdfs:label "浮島敏男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7827790 rdfs:label "山田俊男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7827792 rdfs:label "山内俊夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7827808 rdfs:label "斉藤斗志二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7827822 rdfs:label "加藤敏幸"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7830949 rdfs:label "上田豊三"@ja ;
+    wdt:P39 wd:Q11515703 .
+
+wd:Q784087 rdfs:label "伴野豊"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7849971 rdfs:label "津軽信著"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7849974 rdfs:label "津軽信明"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7849978 rdfs:label "津軽信寧"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7849985 rdfs:label "津軽寧親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7850039 rdfs:label "秋元司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7850042 rdfs:label "岩本司"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7850044 rdfs:label "木挽司"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7850115 rdfs:label "筑紫広門"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7850189 rdfs:label "楠瀬常猪"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7850203 rdfs:label "河合常則"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7850206 rdfs:label "金光庸夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7850332 rdfs:label "大久保勉"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q7850337 rdfs:label "冨岡勉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7850346 rdfs:label "筒井順昭"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q7850389 rdfs:label "高木毅"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q785299 rdfs:label "平沢常富"@ja ;
+    wdt:P39 wd:Q11578532 .
+
+wd:Q785885 rdfs:label "田中健一"@ja ;
+    wdt:P39 wd:Q29182 .
+
+wd:Q7862709 rdfs:label "土井亨"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7862717 rdfs:label "戸井田徹"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q786752 rdfs:label "保岡興治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q786877 rdfs:label "渋川春海"@ja ;
+    wdt:P39 wd:Q11442660 .
+
+wd:Q7960790 rdfs:label "藤田若水"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q7973013 rdfs:label "伊藤渉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q798628 rdfs:label "土井利位"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8010346 rdfs:label "内藤家長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8013019 rdfs:label "池坊保子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8046971 rdfs:label "谷川弥一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8047597 rdfs:label "山田信道"@ja ;
+    wdt:P39 wd:Q27697103 .
+
+wd:Q8047984 rdfs:label "稲葉大和"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8049955 rdfs:label "舟山康江"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8049965 rdfs:label "中山泰秀"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8049977 rdfs:label "葉梨康弘"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8049985 rdfs:label "中川泰宏"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8049986 rdfs:label "大江康弘"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8049988 rdfs:label "小里泰弘"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8049989 rdfs:label "園田康博"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8049995 rdfs:label "辻泰弘"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8050022 rdfs:label "小宮山泰子"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8050036 rdfs:label "重野安正"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8050071 rdfs:label "山下八洲夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8050092 rdfs:label "金子恭之"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8050118 rdfs:label "鈴木康友"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q19961107 .
+
+wd:Q8050121 rdfs:label "西村康稔"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8050128 rdfs:label "江田康幸"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8050168 rdfs:label "津田弥太郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8054314 rdfs:label "鈴木陽悦"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8054513 rdfs:label "江崎洋一郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8054534 rdfs:label "武藤容治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8054597 rdfs:label "鰐淵洋子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8055323 rdfs:label "松野頼久"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8055326 rdfs:label "円より子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8055970 rdfs:label "原田義昭"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056019 rdfs:label "松村祥史"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8056035 rdfs:label "福田良彦"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056058 rdfs:label "川上義博"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q8056061 rdfs:label "関芳弘"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056070 rdfs:label "古川禎久"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056098 rdfs:label "中山義活"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056133 rdfs:label "山下芳生"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8056173 rdfs:label "高嶋良充"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8056198 rdfs:label "藤原良信"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8056217 rdfs:label "大野功統"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056232 rdfs:label "木村義雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056240 rdfs:label "牧義夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056243 rdfs:label "望月義夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056244 rdfs:label "中川義雄"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8056255 rdfs:label "漆原良夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056263 rdfs:label "谷津義男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056268 rdfs:label "岡本芳郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056271 rdfs:label "横峯良郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8056287 rdfs:label "村田吉隆"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056290 rdfs:label "桜田義孝"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056293 rdfs:label "木俣佳丈"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8056297 rdfs:label "増原義剛"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056299 rdfs:label "亀岡偉民"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8056307 rdfs:label "加治屋義人"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8060482 rdfs:label "小川友一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8060488 rdfs:label "魚住裕一郎"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8060522 rdfs:label "澤雄二"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8060529 rdfs:label "山本有二"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8060574 rdfs:label "飯島夕雁"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8060577 rdfs:label "佐藤ゆかり"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8060685 rdfs:label "前田雄吉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8060715 rdfs:label "坂本由紀子"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8060741 rdfs:label "実川幸夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8060756 rdfs:label "富岡由紀夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8060758 rdfs:label "大久保潔重"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8062068 rdfs:label "福島豊"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8062680 rdfs:label "礒崎陽輔"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8062684 rdfs:label "篠田陽介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8062685 rdfs:label "高木陽介"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8062688 rdfs:label "鶴保庸介"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q8062736 rdfs:label "結城晴朝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8062739 rdfs:label "結城政勝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8062781 rdfs:label "吉田雄人"@ja ;
+    wdt:P39 wd:Q11505877,
+        wd:Q19961107 .
+
+wd:Q8069135 rdfs:label "金子善次郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8069237 rdfs:label "亀井善太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q806947 rdfs:label "海江田万里"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q8081570 rdfs:label "大久保忠隣"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8081768 rdfs:label "大友親家"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8081770 rdfs:label "小手子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q8081786 rdfs:label "大内政弘"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8081787 rdfs:label "大内義長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8189863 rdfs:label "今川氏輝"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8190166 rdfs:label "堀秀政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8190311 rdfs:label "長束正家"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8190645 rdfs:label "堀尾吉晴"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8190652 rdfs:label "金森長近"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8190896 rdfs:label "伊達秀宗"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q8192220 rdfs:label "筒井順慶"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q836214 rdfs:label "十市皇女"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q837179 rdfs:label "土岐頼芸"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837236 rdfs:label "保科正之"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837265 rdfs:label "蘆名盛氏"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837273 rdfs:label "武田義信"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837394 rdfs:label "波多野秀治"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837428 rdfs:label "尼子義久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837431 rdfs:label "尼子勝久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837435 rdfs:label "別所長治"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837482 rdfs:label "喜納昌吉"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q837903 rdfs:label "織田長益"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q837932 rdfs:label "光明皇后"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q839356 rdfs:label "堀内光雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q840609 rdfs:label "鈴木宗男"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q842016 rdfs:label "蒲生賢秀"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q843226 rdfs:label "片倉景綱"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q843245 rdfs:label "徳川光友"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q843260 rdfs:label "徳川五郎太"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q843299 rdfs:label "徳川吉通"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q843627 rdfs:label "徳川宗翰"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q844035 rdfs:label "松前慶広"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q844093 rdfs:label "松平容大"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q845458 rdfs:label "堀内恒夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q846200 rdfs:label "松平容敬"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q846206 rdfs:label "鳥居忠政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q846378 rdfs:label "伊達重村"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q846911 rdfs:label "柳沢吉保"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q847002 rdfs:label "佐竹義敦"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q847762 rdfs:label "二本松義継"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q848778 rdfs:label "亀井茲矩"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q850933 rdfs:label "鳥居忠恒"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q851716 rdfs:label "五島純玄"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q852858 rdfs:label "青木一男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q854691 rdfs:label "三塚博"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q855629 rdfs:label "大来佐武郎"@ja ;
+    wdt:P39 wd:Q222241 .
+
+wd:Q856388 rdfs:label "一木喜徳郎"@ja ;
+    wdt:P39 wd:Q11267748,
+        wd:Q11394698,
+        wd:Q14917211,
+        wd:Q8193428 .
+
+wd:Q859210 rdfs:label "森山眞弓"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q859673 rdfs:label "吉川元春"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q859759 rdfs:label "高橋紹運"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q859769 rdfs:label "細川晴元"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q859795 rdfs:label "毛利隆元"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q859948 rdfs:label "朝倉宗滴"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q861241 rdfs:label "福地源一郎"@ja ;
+    wdt:P39 wd:Q11505877,
+        wd:Q17506823 .
+
+wd:Q861808 rdfs:label "丹羽雄哉"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q861857 rdfs:label "竹中平蔵"@ja ;
+    wdt:P39 wd:Q11394680,
+        wd:Q11394683,
+        wd:Q14552828,
+        wd:Q1578065 .
+
+wd:Q862582 rdfs:label "英照皇太后"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q862949 rdfs:label "伊達宗城"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q866643 rdfs:label "石井紘基"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q869401 rdfs:label "大久保忠世"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q871566 rdfs:label "水野信元"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q87610 rdfs:label "皇后美智子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q8766149 rdfs:label "奨子内親王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q900258 rdfs:label "藤原璋子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q9019271 rdfs:label "大村清一"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q901949 rdfs:label "藤原彰子"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q906180 rdfs:label "中川秀直"@ja ;
+    wdt:P39 wd:Q1078482,
+        wd:Q11595924,
+        wd:Q1575361,
+        wd:Q17506823 .
+
+wd:Q906354 rdfs:label "西周"@ja ;
+    wdt:P39 wd:Q11650575 .
+
+wd:Q906580 rdfs:label "蒲生氏郷"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q906593 rdfs:label "上杉憲政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q907019 rdfs:label "黒田孝高"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q907127 rdfs:label "小笠原長時"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q909023 rdfs:label "今川氏親"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q909029 rdfs:label "津軽為信"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q909963 rdfs:label "長尾為景"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q910241 rdfs:label "堀田正睦"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q910428 rdfs:label "田野瀬良太郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q9108432 rdfs:label "植原悦二郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q917498 rdfs:label "門川大作"@ja ;
+    wdt:P39 wd:Q27826875 .
+
+wd:Q918663 rdfs:label "田口芳五郎"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q45722,
+        wd:Q49476 .
+
+wd:Q919504 rdfs:label "土井辰雄"@ja ;
+    wdt:P39 wd:Q29182,
+        wd:Q45722,
+        wd:Q49476 .
+
+wd:Q920897 rdfs:label "高平小五郎"@ja ;
+    wdt:P39 wd:Q16147003 .
+
+wd:Q921399 rdfs:label "中井洽"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q923428 rdfs:label "松浪健太"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q924929 rdfs:label "北条早雲"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q926287 rdfs:label "斉藤鉄夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q926370 rdfs:label "林幹雄"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q930282 rdfs:label "松平喜徳"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q9335285 rdfs:label "山本宣治"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q935199 rdfs:label "塩谷立"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q842359 .
+
+wd:Q936047 rdfs:label "堀田正俊"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q93745 rdfs:label "浅沼稲次郎"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q937682 rdfs:label "中曽根弘文"@ja ;
+    wdt:P39 wd:Q11595924,
+        wd:Q1355043,
+        wd:Q14552828,
+        wd:Q14917211 .
+
+wd:Q939558 rdfs:label "桜井充"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q939576 rdfs:label "武藤嘉文"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q942553 rdfs:label "小西行長"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q943643 rdfs:label "北条氏康"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q943732 rdfs:label "久間章生"@ja ;
+    wdt:P39 wd:Q17506823,
+        wd:Q28868201,
+        wd:Q6500838 .
+
+wd:Q946932 rdfs:label "桂川甫周"@ja ;
+    wdt:P39 wd:Q11445622 .
+
+wd:Q950496 rdfs:label "黒田長政"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q952763 rdfs:label "田中静壱"@ja ;
+    wdt:P39 wd:Q1542521 .
+
+wd:Q955727 rdfs:label "島津義久"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q958662 rdfs:label "光仁天皇"@ja ;
+    wdt:P39 wd:Q208233 .
+
+wd:Q962110 rdfs:label "小川敏夫"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q965723 rdfs:label "仙谷由人"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q967196 rdfs:label "片山善博"@ja ;
+    wdt:P39 wd:Q1578065 .
+
+wd:Q967214 rdfs:label "西岡武夫"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823,
+        wd:Q28869611 .
+
+wd:Q967501 rdfs:label "豊臣秀次"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q977505 rdfs:label "松下忠洋"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q977641 rdfs:label "山口那津男"@ja ;
+    wdt:P39 wd:Q14552828,
+        wd:Q17506823 .
+
+wd:Q978256 rdfs:label "小沢鋭仁"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q982469 rdfs:label "谷本正憲"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q982562 rdfs:label "平野達男"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q982631 rdfs:label "橋本昌"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q982634 rdfs:label "藤田雄山"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q982638 rdfs:label "古田肇"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q982641 rdfs:label "井戸敏三"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q982644 rdfs:label "大澤正明"@ja ;
+    wdt:P39 wd:Q1623534 .
+
+wd:Q982743 rdfs:label "徳川綱誠"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q984305 rdfs:label "平岡秀夫"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q986753 rdfs:label "山本有三"@ja ;
+    wdt:P39 wd:Q14552828 .
+
+wd:Q986767 rdfs:label "三好義継"@ja ;
+    wdt:P39 wd:Q61982 .
+
+wd:Q992930 rdfs:label "石原伸晃"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q993988 rdfs:label "幸子女王"@ja ;
+    wdt:P39 wd:Q595038 .
+
+wd:Q995317 rdfs:label "野坂浩賢"@ja ;
+    wdt:P39 wd:Q17506823 .
+
+wd:Q1036547 rdfs:label "若年寄"@ja .
+
+wd:Q1049618 rdfs:label "勘定奉行"@ja .
+
+wd:Q1054379 rdfs:label "文部科学省"@ja .
+
+wd:Q1055894 rdfs:label "国民議会議員"@ja .
+
+wd:Q1079855 rdfs:label "門跡"@ja .
+
+wd:Q10875159 rdfs:label "中宮"@ja .
+
+wd:Q11051391 rdfs:label "特命全権公使"@ja .
+
+wd:Q11165895 rdfs:label "宮中顧問官"@ja .
+
+wd:Q1133663 rdfs:label "参議"@ja .
+
+wd:Q11375905 rdfs:label "人事官"@ja .
+
+wd:Q11385487 rdfs:label "侍読"@ja .
+
+wd:Q11393702 rdfs:label "兵衛府"@ja .
+
+wd:Q11394590 rdfs:label "内記"@ja .
+
+wd:Q11394667 rdfs:label "内閣府特命担当大臣（再チャレンジ担当）"@ja .
+
+wd:Q11394670 rdfs:label "内閣府特命担当大臣（原子力行政担当）"@ja .
+
+wd:Q11394673 rdfs:label "内閣府特命担当大臣（地方分権改革担当）"@ja .
+
+wd:Q11394677 rdfs:label "内閣府特命担当大臣（産業再生機構担当）"@ja .
+
+wd:Q11394678 rdfs:label "内閣府特命担当大臣（男女共同参画担当）"@ja .
+
+wd:Q11394683 rdfs:label "内閣府特命担当大臣（金融担当）"@ja .
+
+wd:Q11394684 rdfs:label "内閣府特命担当大臣（規制改革担当）"@ja .
+
+wd:Q11394688 rdfs:label "内閣府特命担当大臣（食品安全担当）"@ja .
+
+wd:Q11394698 rdfs:label "内閣法制局長官"@ja .
+
+wd:Q11394710 rdfs:label "内閣総理大臣補佐官"@ja .
+
+wd:Q11404509 rdfs:label "北面武士"@ja .
+
+wd:Q1142265 rdfs:label "内務省"@ja .
+
+wd:Q1143696 rdfs:label "侍所"@ja .
+
+wd:Q11438061 rdfs:label "大目付"@ja .
+
+wd:Q11445639 rdfs:label "奥右筆"@ja .
+
+wd:Q11452939 rdfs:label "宣教使"@ja .
+
+wd:Q11479716 rdfs:label "左衛門尉"@ja .
+
+wd:Q11480073 rdfs:label "市司"@ja .
+
+wd:Q11489347 rdfs:label "御附家老"@ja .
+
+wd:Q11493583 rdfs:label "愛媛県知事"@ja .
+
+wd:Q11497733 rdfs:label "押領使"@ja .
+
+wd:Q11498039 rdfs:label "按察使"@ja .
+
+wd:Q11500074 rdfs:label "文章博士"@ja .
+
+wd:Q11500124 rdfs:label "文部科学副大臣"@ja .
+
+wd:Q11515180 rdfs:label "書物改役"@ja .
+
+wd:Q11540942 rdfs:label "検校"@ja .
+
+wd:Q11547841 rdfs:label "民主党代表"@ja .
+
+wd:Q11547969 rdfs:label "民部卿"@ja .
+
+wd:Q11558896 rdfs:label "海岸防禦御用掛"@ja .
+
+wd:Q11578236 rdfs:label "町年寄"@ja .
+
+wd:Q11578532 rdfs:label "留守居"@ja .
+
+wd:Q11607535 rdfs:label "総務副大臣"@ja .
+
+wd:Q11626436 rdfs:label "表右筆"@ja .
+
+wd:Q11632350 rdfs:label "警察庁長官"@ja .
+
+wd:Q11632428 rdfs:label "警視総監"@ja .
+
+wd:Q11632465 rdfs:label "議定官"@ja .
+
+wd:Q11638974 rdfs:label "近衛府"@ja .
+
+wd:Q11643275 rdfs:label "部長"@ja .
+
+wd:Q11647872 rdfs:label "金融再生委員会委員長"@ja .
+
+wd:Q11652402 rdfs:label "長崎会所調役"@ja .
+
+wd:Q11664099 rdfs:label "韮山代官所"@ja .
+
+wd:Q1185338 rdfs:label "内大臣"@ja .
+
+wd:Q1185382 rdfs:label "中納言"@ja .
+
+wd:Q11902879 rdfs:label "首長"@ja .
+
+wd:Q1196812 rdfs:label "老中"@ja .
+
+wd:Q1197264 rdfs:label "経済産業省"@ja .
+
+wd:Q1199966 rdfs:label "関白"@ja .
+
+wd:Q1202497 rdfs:label "管領"@ja .
+
+wd:Q1351234 rdfs:label "国司"@ja .
+
+wd:Q1376196 rdfs:label "国土交通省"@ja .
+
+wd:Q14212 rdfs:label "首相"@ja .
+
+wd:Q1622272 rdfs:label "大学教授"@ja .
+
+wd:Q17212603 rdfs:label "支配勘定"@ja .
+
+wd:Q17224467 rdfs:label "内閣府特命担当大臣（国家戦略特別区域担当）"@ja .
+
+wd:Q176968 rdfs:label "お雇い外国人"@ja .
+
+wd:Q189854 rdfs:label "府主教"@ja .
+
+wd:Q20041398 rdfs:label "内閣府特命担当大臣（地方創生担当）"@ja .
+
+wd:Q212071 rdfs:label "学長"@ja .
+
+wd:Q222241 rdfs:label "外務省"@ja .
+
+wd:Q2285706 rdfs:label "政府の長"@ja .
+
+wd:Q2368525 rdfs:label "軍医総監"@ja .
+
+wd:Q2535820 rdfs:label "奉行"@ja .
+
+wd:Q254907 rdfs:label "元老"@ja .
+
+wd:Q2660648 rdfs:label "総裁"@ja .
+
+wd:Q267936 rdfs:label "業務執行取締役"@ja .
+
+wd:Q2700052 rdfs:label "鎮守府将軍"@ja .
+
+wd:Q2762318 rdfs:label "法定推定相続人"@ja .
+
+wd:Q27972427 rdfs:label "内閣府特命担当大臣（国民生活担当）"@ja .
+
+wd:Q28872010 rdfs:label "鉄道大臣"@ja .
+
+wd:Q3034557 rdfs:label "徳島藩"@ja .
+
+wd:Q3270768 rdfs:label "弁官"@ja .
+
+wd:Q3273722 rdfs:label "厚生大臣"@ja .
+
+wd:Q3307502 rdfs:label "目付"@ja .
+
+wd:Q3315480 rdfs:label "農商務省 (日本)"@ja .
+
+wd:Q3734658 rdfs:label "副領事"@ja .
+
+wd:Q4168128 rdfs:label "碁所"@ja .
+
+wd:Q486839 rdfs:label "国会議員"@ja .
+
+wd:Q497217 rdfs:label "検非違使"@ja .
+
+wd:Q5354399 rdfs:label "県令"@ja .
+
+wd:Q5367751 rdfs:label "関東管領"@ja .
+
+wd:Q5374675 rdfs:label "女性天皇"@ja .
+
+wd:Q5640582 rdfs:label "箱館奉行"@ja .
+
+wd:Q589298 rdfs:label "主筆"@ja .
+
+wd:Q61061 rdfs:label "学長 (チャンセラー)"@ja .
+
+wd:Q617717 rdfs:label "創価学会"@ja .
+
+wd:Q623279 rdfs:label "最高執行責任者"@ja .
+
+wd:Q6867297 rdfs:label "通商産業省"@ja .
+
+wd:Q690928 rdfs:label "庄屋"@ja .
+
+wd:Q701172 rdfs:label "台湾総督府"@ja .
+
+wd:Q708492 rdfs:label "参事官"@ja .
+
+wd:Q711450 rdfs:label "統監府"@ja .
+
+wd:Q712143 rdfs:label "内大臣府"@ja .
+
+wd:Q713166 rdfs:label "大東亜省"@ja .
+
+wd:Q715139 rdfs:label "貴族院"@ja .
+
+wd:Q719039 rdfs:label "王妃"@ja .
+
+wd:Q728656 rdfs:label "国際司法裁判所裁判官"@ja .
+
+wd:Q73840 rdfs:label "引付衆"@ja .
+
+wd:Q8013406 rdfs:label "九州探題"@ja .
+
+wd:Q8193428 rdfs:label "宮内省"@ja .
+
+wd:Q81986 rdfs:label "外国奉行"@ja .
+
+wd:Q905554 rdfs:label "郵政省"@ja .
+
+wd:Q949008 rdfs:label "左大臣"@ja .
+
+wd:Q956844 rdfs:label "大老"@ja .
+
+wd:Q11378299 rdfs:label "代表取締役"@ja .
+
+wd:Q11394674 rdfs:label "内閣府特命担当大臣（宇宙政策担当）"@ja .
+
+wd:Q11394680 rdfs:label "内閣府特命担当大臣（経済財政政策担当）"@ja .
+
+wd:Q11394685 rdfs:label "内閣府特命担当大臣（防災担当）"@ja .
+
+wd:Q11421245 rdfs:label "国立国会図書館長"@ja .
+
+wd:Q11440818 rdfs:label "大阪市長"@ja .
+
+wd:Q11442660 rdfs:label "天文方"@ja .
+
+wd:Q11496652 rdfs:label "戸長"@ja .
+
+wd:Q1157586 rdfs:label "太政大臣"@ja .
+
+wd:Q11612963 rdfs:label "自由民主党総裁"@ja .
+
+wd:Q11621873 rdfs:label "蔵人頭"@ja .
+
+wd:Q11634582 rdfs:label "財務副大臣"@ja .
+
+wd:Q1316445 rdfs:label "家老"@ja .
+
+wd:Q1336636 rdfs:label "宮中顧問官"@ja .
+
+wd:Q1575361 rdfs:label "自由民主党幹事長"@ja .
+
+wd:Q1626996 rdfs:label "名主"@ja .
+
+wd:Q3108649 rdfs:label "与力"@ja .
+
+wd:Q3138036 rdfs:label "公卿"@ja .
+
+wd:Q3151478 rdfs:label "式守伊之助"@ja .
+
+wd:Q3482790 rdfs:label "木村庄之助"@ja .
+
+wd:Q611644 rdfs:label "司教"@ja .
+
+wd:Q6866352 rdfs:label "内閣府特命担当大臣（消費者及び食品安全担当）"@ja .
+
+wd:Q859955 rdfs:label "国人"@ja .
+
+wd:Q9891637 rdfs:label "大宰権帥"@ja .
+
+wd:Q1104488 rdfs:label "環境大臣"@ja .
+
+wd:Q11267748 rdfs:label "内務大臣"@ja .
+
+wd:Q11388041 rdfs:label "元老院議官"@ja .
+
+wd:Q11394675 rdfs:label "内閣府特命担当大臣（沖縄及び北方対策担当）"@ja .
+
+wd:Q11394679 rdfs:label "内閣府特命担当大臣（科学技術政策担当）"@ja .
+
+wd:Q1141023 rdfs:label "守護"@ja .
+
+wd:Q1154406 rdfs:label "室町幕府"@ja .
+
+wd:Q11584647 rdfs:label "知藩事"@ja .
+
+wd:Q11643353 rdfs:label "郵政大臣"@ja .
+
+wd:Q11650575 rdfs:label "錦鶏間祗候"@ja .
+
+wd:Q132050 rdfs:label "知事"@ja .
+
+wd:Q1351174 rdfs:label "右大臣"@ja .
+
+wd:Q22960931 rdfs:label "衆議院議長"@ja .
+
+wd:Q28868201 rdfs:label "防衛庁長官"@ja .
+
+wd:Q842012 rdfs:label "国土交通大臣"@ja .
+
+wd:Q11657095 rdfs:label "防衛庁副長官"@ja .
+
+wd:Q121998 rdfs:label "大使"@ja .
+
+wd:Q1354706 rdfs:label "大納言"@ja .
+
+wd:Q205662 rdfs:label "江戸幕府"@ja .
+
+wd:Q21027733 rdfs:label "逓信大臣"@ja .
+
+wd:Q483997 rdfs:label "朝鮮総督府"@ja .
+
+wd:Q103163 rdfs:label "修道院長"@ja .
+
+wd:Q11445622 rdfs:label "奥医師"@ja .
+
+wd:Q11612810 rdfs:label "自治大臣"@ja .
+
+wd:Q11640486 rdfs:label "運輸大臣"@ja .
+
+wd:Q1542521 rdfs:label "スペイン領フィリピンの総督"@ja .
+
+wd:Q1575411 rdfs:label "国家公安委員会委員長"@ja .
+
+wd:Q33134383 rdfs:label "北海道知事"@ja .
+
+wd:Q45722 rdfs:label "枢機卿"@ja .
+
+wd:Q841904 rdfs:label "法務大臣"@ja .
+
+wd:Q131767 rdfs:label "征夷大将軍"@ja .
+
+wd:Q140686 rdfs:label "会長"@ja .
+
+wd:Q30185 rdfs:label "首長"@ja .
+
+wd:Q8191055 rdfs:label "農林水産大臣"@ja .
+
+wd:Q845929 rdfs:label "王位請求者"@ja .
+
+wd:Q11248633 rdfs:label "社長"@ja .
+
+wd:Q15063280 rdfs:label "大阪府知事"@ja .
+
+wd:Q484876 rdfs:label "最高経営責任者"@ja .
+
+wd:Q11481067 rdfs:label "帝室技芸員"@ja .
+
+wd:Q19962558 rdfs:label "名古屋市長"@ja .
+
+wd:Q49476 rdfs:label "大主教"@ja .
+
+wd:Q6500838 rdfs:label "防衛大臣"@ja .
+
+wd:Q11525354 rdfs:label "東京都知事"@ja .
+
+wd:Q14917211 rdfs:label "文部大臣"@ja .
+
+wd:Q19961107 rdfs:label "市長"@ja .
+
+wd:Q497960 rdfs:label "連署"@ja .
+
+wd:Q841962 rdfs:label "厚生労働大臣"@ja .
+
+wd:Q1578065 rdfs:label "総務大臣"@ja .
+
+wd:Q938069 rdfs:label "六波羅探題"@ja .
+
+wd:Q16147003 rdfs:label "在アメリカ合衆国日本国大使"@ja .
+
+wd:Q28919543 rdfs:label "環境庁長官"@ja .
+
+wd:Q27697103 rdfs:label "京都府知事"@ja .
+
+wd:Q1045904 rdfs:label "執権"@ja .
+
+wd:Q27826875 rdfs:label "京都市長"@ja .
+
+wd:Q6566884 rdfs:label "最高裁判所長官"@ja .
+
+wd:Q6500849 rdfs:label "財務大臣"@ja .
+
+wd:Q842359 rdfs:label "文部科学大臣"@ja .
+
+wd:Q11595924 rdfs:label "科学技術庁長官"@ja .
+
+wd:Q1355043 rdfs:label "外務大臣"@ja .
+
+wd:Q11505877 rdfs:label "日本の地方議会議員"@ja .
+
+wd:Q28869611 rdfs:label "参議院議長"@ja .
+
+wd:Q29182 rdfs:label "主教"@ja .
+
+wd:Q1767791 rdfs:label "副総理"@ja .
+
+wd:Q28871679 rdfs:label "参議院副議長"@ja .
+
+wd:Q1078482 rdfs:label "内閣官房長官"@ja .
+
+wd:Q11065521 rdfs:label "建設大臣"@ja .
+
+wd:Q274948 rdfs:label "内閣総理大臣"@ja .
+
+wd:Q1623534 rdfs:label "都道府県知事"@ja .
+
+wd:Q595038 rdfs:label "女性天皇"@ja .
+
+wd:Q11515703 rdfs:label "最高裁判所裁判官"@ja .
+
+wd:Q208233 rdfs:label "天皇"@ja .
+
+wd:Q14552828 rdfs:label "参議院議員"@ja .
+
+wd:Q61982 rdfs:label "大名"@ja .
+
+wd:Q17506823 rdfs:label "衆議院議員"@ja .
+
