@@ -10,4 +10,4 @@ for url in t.xpath(".//s:loc/text()", namespaces={"s":"http://www.sitemaps.org/s
 	rows += [(name,) for name in names]
 	print("%d from %s" % (len(names),url))
 
-csv.writer(open("senkyo_dotcom.csv", "w")).writerows((rows))
+csv.writer(open("docs/senkyo_dotcom.csv", "w")).writerows((rows))
